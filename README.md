@@ -68,7 +68,7 @@ config= {
     "WAligner_model": "bert-base-multilingual-uncased", # needed for word_aligner
 }
 
-aligner = Pipeline(config)
+aligner = AlignmentPipeline(config)
 
 src_sentence = "The soldiers were ordered to fire their weapons."
 src_annotation = "fire"
