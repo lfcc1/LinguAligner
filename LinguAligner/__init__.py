@@ -1,5 +1,5 @@
 """LinguAligner is a Python library for aligning annotations in parallel corpora. It is designed to be used in the context of parallel corpora annotation alignment, where the goal is to align annotations in the source language with annotations in the target language. """
-__version__ = "0.7"
+__version__ = "0.14"
 
 
 from . import aligners
@@ -9,7 +9,7 @@ from transformers import BertTokenizer, BertModel, logging
 logging.set_verbosity_error()
 
 
-class Pipeline:
+class AlignmentPipeline:
     def __init__(self, config):
         self.config = config
         print("Loading spacy model: " + config["spacy_model"])
@@ -23,6 +23,10 @@ class Pipeline:
 
     def align_annotation(self, src_sent,src_ann, tgt_sent, trans_ann, lookupTable=None):
         pipeline = self.config["pipeline"]
+                            
+        if "M_Trans" in pipeline and lookupTable == None:              
+            pipeline.remove("M_Trans")
+            print("Lookup table not provided for M_Trans method. (skipped)")
         nlp = self.nlp
         res = aligners.regex_string_match(tgt_sent,trans_ann) 
         if not res:
@@ -32,9 +36,7 @@ class Pipeline:
                 if method == 'lemma':
                     res = aligners.lemma_match(tgt_sent,trans_ann,nlp)
                 elif method == 'M_Trans': # Mtrans is combined with lemma method since we also calculate the lemma of the translations
-                    if lookupTable:
-                        res = aligners.resource_match(tgt_sent,src_ann,nlp,lookupTable)
-                    else: print("Lookup table not provided for M_Trans method. (skipped)")
+                    res = aligners.resource_match(tgt_sent,src_ann,nlp,lookupTable)
                 elif method == 'word_aligner':
                     res = aligners.wordAligner(src_sent,tgt_sent,src_ann,nlp, self.tokenizer, self.model)
                 elif method == 'gestalt':
