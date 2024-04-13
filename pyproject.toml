@@ -9,3 +9,7 @@ readme = "README.md"
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: MIT License"]
 dynamic = ["version", "description"]
+
+[project.urls]
+Homepage = "https://github.com/lfcc1/LinguAligner"
+Issues = "https://github.com/lfcc1/LinguAligner/issues"

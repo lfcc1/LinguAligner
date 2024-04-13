@@ -1,5 +1,5 @@
 """LinguAligner is a Python library for aligning annotations in parallel corpora. It is designed to be used in the context of parallel corpora annotation alignment, where the goal is to align annotations in the source language with annotations in the target language. """
-__version__ = "0.6"
+__version__ = "0.7"
 
 
 from . import aligners
