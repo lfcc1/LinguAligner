@@ -6,6 +6,7 @@ It is composed of two main components:
 - Text translation: We support DeepL Translator, Google Translator and Microsoft Translators APIs. 
 - Annotations alignments: We developed an annotation alignment pipeline that uses several alignment techniques to align the translated annotations within the translated text.
 
+The ACE-2005-PT corpus (Portuguese translation) was published by the Linguistic Data Consortium. For more details, visit the [LDC catalog](https://catalog.ldc.upenn.edu/LDC2024T05). 
 
 ## Annotation Alignment Modules
 Our pipeline is composed of a total of five annotation alignment components:
