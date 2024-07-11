@@ -1,5 +1,5 @@
 # LinguAligner
-LinguALigner is a comprehensive corpus translation and alignment pipeline designed to facilitate the translation of corpora across different languages. It translates corpora using machine translation and aligns the translated annotations with their corresponding translated text. Initially developed for the automatic translation of ACE-2005 into Portuguese, LinguALigner has since been adapted into a versatile package for effortless translation of other corpora.
+LinguAligner is a comprehensive corpus translation and alignment pipeline designed to facilitate the translation of corpora across different languages. It translates corpora using machine translation and aligns the translated annotations with their corresponding translated text. Initially developed for the automatic translation of [ACE-2005 into Portuguese](https://catalog.ldc.upenn.edu/LDC2024T05) , LinguAligner has since been adapted into a versatile package for effortless translation of other corpora.
 
 It is composed of two main components: 
 
