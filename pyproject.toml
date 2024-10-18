@@ -9,6 +9,15 @@ readme = "README.md"
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: MIT License"]
 dynamic = ["version", "description"]
+dependencies = [
+    "transformers[torch]",
+    "spacy",
+    "deep_translator",
+    "deepl",
+    "requests",
+    "uuid",
+    "fuzzywuzzy"
+]
 
 [project.urls]
 Homepage = "https://github.com/lfcc1/LinguAligner"

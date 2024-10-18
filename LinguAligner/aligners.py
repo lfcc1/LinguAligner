@@ -14,7 +14,7 @@ def regex_string_match(trg_sent,trans_ann):
     escaped_trans_ann = re.escape(trans_ann)
     match = re.search(r"\b"+escaped_trans_ann+r'\b',trg_sent)
     if match:
-        return match.group(), (match.start(), match.end())
+        return match.group() #, (match.start(), match.end())
     return None
 
 
@@ -88,8 +88,8 @@ import torch
 import itertools
 
 def mbert_Align(sent_src,sent_tgt, tokenizer, model):
-    token_src, token_tgt = [[tokenizer.tokenize(word)[0]] for word in sent_src], [[tokenizer.tokenize(word)[0]]  for word in sent_tgt]
-    
+    token_src, token_tgt = [[tokens[0]] for tokens in (tokenizer.tokenize(word) for word in sent_src) if tokens], [[tokens[0]] for tokens in (tokenizer.tokenize(word) for word in sent_tgt) if tokens]
+    #print(token_src,token_tgt, sep="\n")
     wid_src, wid_tgt = [tokenizer.convert_tokens_to_ids(x) for x in token_src], [tokenizer.convert_tokens_to_ids(x) for x in token_tgt]
     ids_src, ids_tgt = tokenizer.prepare_for_model(list(itertools.chain(*wid_src)), return_tensors='pt', model_max_length=tokenizer.model_max_length, truncation=True)['input_ids'], tokenizer.prepare_for_model(list(itertools.chain(*wid_tgt)), return_tensors='pt', truncation=True, model_max_length=tokenizer.model_max_length)['input_ids']
     sub2word_map_src = []
@@ -188,3 +188,20 @@ def argPriority(choices, en_arg, nlp):
     return "", "not_found"
 
 
+def closest_occurrence(tgt_sent, tgt_ann, src_ann_start):
+    first_occurrence = tgt_sent.index(tgt_ann)
+
+    closest_index = first_occurrence
+    closest_distance = abs(src_ann_start - first_occurrence)
+
+    start = first_occurrence
+    while start != -1:
+        distance = abs(src_ann_start - start)
+
+        if distance < closest_distance:
+            closest_index = start
+            closest_distance = distance
+
+        start = tgt_sent.find(tgt_ann, start + 1)
+
+    return closest_index, closest_index + len(tgt_ann) - 1

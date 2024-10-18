@@ -20,11 +20,11 @@ class GoogleTranslator:
         return trans
 
 class DeepLTranslator:
-    def __init__(self,auth_key, source_lang="EN", target_lang="PT-PT"):
-        self.auth_key = "KEY"
+    def __init__(self,key, source_lang="EN", target_lang="PT-PT"):
+        self.auth_key = key
         self.source_lang = source_lang
         self.target_lang = target_lang
-        self.translator = deepl.Translator(auth_key)
+        self.translator = deepl.Translator(key)
         
     def translate(self, text):
         result = self.translator_deepl.translate_text(text, source_lang= self.ource_lang, target_lang= self.target_lang)
