@@ -1,11 +1,14 @@
 # LinguAligner
-LinguALigner is a comprehensive corpus translation and alignment pipeline designed to facilitate the translation of corpora across different languages. It translates corpora using machine translation and aligns the translated annotations with their corresponding translated text. Initially developed for the automatic translation of ACE-2005 into Portuguese, LinguALigner has since been adapted into a versatile package for effortless translation of other corpora.
+We developed a Python package called [LinguAligner](https://pypi.org/project/LinguAligner/), a comprehensive corpus translation and alignment pipeline designed to facilitate the translation of corpora across different languages. It translates corpora using machine translation and aligns the translated annotations with their corresponding translated text. Initially developed for the automatic translation of [ACE-2005 into Portuguese](https://catalog.ldc.upenn.edu/LDC2024T05) , LinguAligner has since been adapted into a versatile package for effortless translation of other corpora.
 
 It is composed of two main components: 
 
 - Text translation: We support DeepL Translator, Google Translator and Microsoft Translators APIs. 
 - Annotations alignments: We developed an annotation alignment pipeline that uses several alignment techniques to align the translated annotations within the translated text.
 
+You can access the LinguAligner Python package [here](https://pypi.org/project/LinguAligner/).
+
+The ACE-2005-PT corpus (Portuguese translation produced with LinguAligner), was published by the Linguistic Data Consortium. For more details, visit the [LDC catalog](https://catalog.ldc.upenn.edu/LDC2024T05). 
 
 ## Annotation Alignment Modules
 Our pipeline is composed of a total of five annotation alignment components:
