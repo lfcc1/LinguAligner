@@ -11,7 +11,7 @@ logging.getLogger("transformers.modeling_utils").setLevel(logging.ERROR)
 
 
 config_default = config= {
-    "pipeline": [ "lemma", "M_Trans", "word_aligner","gestalt","leveinstein"], # can be changed according to the desired pipeline
+    "pipeline": [ "lemma", "M_Trans", "word_aligner","gestalt","levenshtein"], # can be changed according to the desired pipeline
     "spacy_model": "pt_core_news_lg", # change according to the language
     "WAligner_model": "bert-base-multilingual-uncased", # needed for word_aligner
 }
@@ -51,8 +51,8 @@ class AlignmentPipeline:
                     res = aligners.wordAligner(src_sent,tgt_sent,src_ann,nlp, self.tokenizer, self.model)
                 elif method == 'gestalt':
                     res = aligners.gestalt_match(tgt_sent,trans_ann,nlp)
-                elif method == 'leveinstein':
-                    res = aligners.leveinstein_match(tgt_sent,trans_ann,nlp)
+                elif method == 'levenshtein':
+                    res = aligners.levenshtein_match(tgt_sent,trans_ann,nlp)
                 else:
                     print(f"Invalid alignment method: {method}")
                 i += 1

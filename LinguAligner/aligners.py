@@ -69,7 +69,7 @@ def gestalt_match(text,text2, nlp):
 
 
 
-def leveinstein_match(text,text2, nlp):
+def levenshtein_match(text,text2, nlp):
     text_doc = nlp(text)
     text2_doc = nlp(text2) 
     window = len(text2_doc)
