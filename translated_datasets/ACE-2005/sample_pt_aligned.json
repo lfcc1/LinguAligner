@@ -1,0 +1,36 @@
+[
+    {
+        "sentence": "Documentos anteriores do caso incluíam detalhes embaraçosos sobre benefícios que Welch recebeu da GE como parte de seu pacote de aposentadoria, num momento em que escândalos corporativos provocavam indignação.",
+        "sentence_en": "Earlier documents in the case have included embarrassing details about perks Welch received as part of his retirement package from GE at a time when corporate scandals were sparking outrage.",
+        "event-mentions": [
+            {
+                "id": "APW_ENG_20030325.0786-EV10-1",
+                "event_type": "Personnel:End-Position",
+                "trigger": {
+                    "start": 17,
+                    "end": 18,
+                    "text": "aposentadoria",
+                    "text_en": "retirement"
+                },
+                "arguments": [
+                    {
+                        "id": "APW_ENG_20030325.0786-E24-38",
+                        "role": "Person",
+                        "text": "Welch",
+                        "start": 11,
+                        "end": 12,
+                        "text_en": "Welch"
+                    },
+                    {
+                        "id": "APW_ENG_20030325.0786-E26-40",
+                        "role": "Entity",
+                        "text": "GE",
+                        "start": 20,
+                        "end": 21,
+                        "text_en": "GE"
+                    }
+                ]
+            }
+        ]
+    }
+]

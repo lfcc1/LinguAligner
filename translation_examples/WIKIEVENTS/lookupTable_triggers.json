@@ -1,0 +1,5026 @@
+{
+    "block": [
+        "bloco",
+        "bloquear",
+        "quarteirão",
+        "bloqueio",
+        "obstruir",
+        "quadra",
+        "bairro"
+    ],
+    "traveling": [
+        "viajando",
+        "viagem",
+        "itinerante"
+    ],
+    "Caught": [
+        "apanhado",
+        "pego",
+        "capturado",
+        "pegou",
+        "travado",
+        "pegos",
+        "peguei",
+        "preso",
+        "pegaram",
+        "chamou",
+        "pega"
+    ],
+    "stop": [
+        "parar",
+        "pare",
+        "pára",
+        "impedir",
+        "paragem",
+        "detê",
+        "parada",
+        "deter",
+        "parem",
+        "interromper",
+        "deixar"
+    ],
+    "gives a media statement": [],
+    "relinquished": [],
+    "improvised": [
+        "improvisado"
+    ],
+    "jailed": [
+        "encarcerado",
+        "preso"
+    ],
+    "strike": [
+        "Strike",
+        "greve",
+        "golpear",
+        "atacar",
+        "ataque",
+        "batida",
+        "golpe",
+        "atingir"
+    ],
+    "came": [
+        "veio",
+        "vieram",
+        "vim",
+        "chegou",
+        "chegaram",
+        "viemos",
+        "vinha",
+        "entrou",
+        "vindo",
+        "apareceu"
+    ],
+    "rushing": [
+        "apressando",
+        "correndo",
+        "pressa",
+        "precipitando"
+    ],
+    "stating": [
+        "afirmando",
+        "declarando",
+        "informando",
+        "indicando",
+        "ateste",
+        "comprovativo",
+        "constatar",
+        "mencionando",
+        "expondo"
+    ],
+    "finding": [
+        "encontrar",
+        "achando",
+        "achar",
+        "constatação",
+        "localizar",
+        "achado",
+        "procurar",
+        "descobrir",
+        "descoberta",
+        "conclusão"
+    ],
+    "demonstrates": [
+        "demonstra"
+    ],
+    "selling": [
+        "vender",
+        "venda",
+        "seller",
+        "vendido"
+    ],
+    "becoming": [
+        "se tornarem",
+        "ficando",
+        "virando",
+        "tornar",
+        "assentar",
+        "transformando",
+        "nos tornarmos"
+    ],
+    "intercepted": [
+        "interceptado",
+        "captam"
+    ],
+    "hunting": [
+        "caça",
+        "caçar",
+        "caçando",
+        "caçada"
+    ],
+    "assassination": [
+        "assassinato",
+        "homicídio",
+        "atentado"
+    ],
+    "revealed": [
+        "revelou"
+    ],
+    "offenses": [
+        "ofensas",
+        "delitos",
+        "crimes",
+        "infracções",
+        "transgressões",
+        "atentados"
+    ],
+    "acknowledge": [
+        "reconhecer",
+        "acusar",
+        "admitir",
+        "confirmar"
+    ],
+    "treason": [
+        "traição"
+    ],
+    "destroyed": [
+        "destruído"
+    ],
+    "breach": [
+        "violação",
+        "brecha",
+        "quebra",
+        "incumprimento",
+        "infracção",
+        "ruptura",
+        "violar",
+        "romper",
+        "falha",
+        "invasão"
+    ],
+    "requirement": [
+        "exigência",
+        "requisito",
+        "requerimento",
+        "obrigação",
+        "necessidade"
+    ],
+    "contacted": [
+        "contactado",
+        "procurada"
+    ],
+    "published": [
+        "publicado",
+        "divulgado",
+        "editado"
+    ],
+    "DESTRUCTION": [
+        "destruição"
+    ],
+    "killings": [
+        "assassinatos",
+        "matanças",
+        "mortes",
+        "homicídios",
+        "crimes"
+    ],
+    "learned": [
+        "aprendi",
+        "soube",
+        "descobriu",
+        "instruído",
+        "sabendo"
+    ],
+    "contend": [
+        "contendem",
+        "afirmam",
+        "alegam",
+        "argumentam",
+        "sustentam"
+    ],
+    "touched off": [],
+    "gunshot": [
+        "tiro",
+        "disparo",
+        "baleada"
+    ],
+    "series of attacks": [],
+    "harassed": [
+        "assediado",
+        "molestados",
+        "hostilizada",
+        "perseguidos",
+        "atormentou",
+        "importunado",
+        "incomodado"
+    ],
+    "crimes": [
+        "crimes",
+        "delitos"
+    ],
+    "monitor": [
+        "monitor",
+        "monitorar",
+        "acompanhar",
+        "controlar",
+        "vigiar"
+    ],
+    "emails": [
+        "e-mails",
+        "mails",
+        "correio eletrónico"
+    ],
+    "attacking": [
+        "atacando",
+        "ataque",
+        "agredindo"
+    ],
+    "medication": [
+        "medicação",
+        "remédio"
+    ],
+    "entering": [
+        "entrar",
+        "inserir",
+        "introduzir",
+        "digitar",
+        "incorporar",
+        "entrem",
+        "domicílio",
+        "invasão"
+    ],
+    "reserve": [
+        "reserva",
+        "reservam"
+    ],
+    "harmed": [
+        "prejudicado",
+        "lesados",
+        "ferido",
+        "machucado",
+        "magoado",
+        "molestado",
+        "maltratado",
+        "afectado",
+        "magoou"
+    ],
+    "suspended": [
+        "suspenso"
+    ],
+    "purchases": [
+        "compras",
+        "aquisições",
+        "adquire"
+    ],
+    "emptied": [
+        "esvaziado",
+        "limpou",
+        "descarregou"
+    ],
+    "disease": [
+        "doença",
+        "enfermidade"
+    ],
+    "the arrests": [],
+    "clashes": [
+        "confrontos",
+        "enfrentamentos",
+        "embates",
+        "conflitos",
+        "choques",
+        "colide",
+        "choca",
+        "atritos",
+        "combates",
+        "interferências"
+    ],
+    "left": [
+        "deixou",
+        "esquerda",
+        "esquerdo",
+        "à esquerda",
+        "saiu",
+        "partiu",
+        "resta",
+        "saí",
+        "saído",
+        "sair",
+        "embora"
+    ],
+    "ordered": [
+        "ordenou",
+        "encomendado",
+        "pedi",
+        "requisitado",
+        "mandou",
+        "condenada",
+        "solicitados",
+        "mandaram",
+        "mandei"
+    ],
+    "sentences": [
+        "sentenças",
+        "frases",
+        "sentencia",
+        "penas",
+        "condena",
+        "orações"
+    ],
+    "travel": [
+        "viajar",
+        "viagem",
+        "viaje",
+        "curso",
+        "deslocação",
+        "percorrer"
+    ],
+    "reject": [
+        "rejeitar",
+        "rejeição",
+        "recusar"
+    ],
+    "Blast": [
+        "explosão",
+        "rajada",
+        "explodir",
+        "sopro",
+        "soprar",
+        "estouro"
+    ],
+    "planting": [
+        "plantação",
+        "plantar"
+    ],
+    "Shot": [
+        "tiro",
+        "baleado",
+        "atirou",
+        "alvejado",
+        "disparado",
+        "disparou",
+        "filmado",
+        "injeção",
+        "atingido",
+        "chance",
+        "foto"
+    ],
+    "meet": [
+        "conhecer",
+        "encontrar",
+        "atender",
+        "satisfazer",
+        "cumprir",
+        "reunir",
+        "apresentar",
+        "enfrentar"
+    ],
+    "ran down": [],
+    "a suspended sentence": [],
+    "manufacture": [
+        "fabricação",
+        "fabricar",
+        "manufaturar",
+        "manufatura",
+        "produção",
+        "produzir"
+    ],
+    "returned": [
+        "retornado",
+        "devolvido",
+        "voltou",
+        "regressou"
+    ],
+    "blew up": [
+        "explodiu",
+        "rebentou",
+        "pifou",
+        "estourou",
+        "destruiu"
+    ],
+    "blast": [
+        "explosão",
+        "rajada",
+        "explodir",
+        "sopro",
+        "soprar",
+        "estouro"
+    ],
+    "traveled": [
+        "viajou",
+        "percorrida"
+    ],
+    "died": [
+        "morreu",
+        "morrido",
+        "faleceu",
+        "morte",
+        "morto"
+    ],
+    "beating": [
+        "batendo",
+        "surrá",
+        "espancamento",
+        "bater",
+        "tareia",
+        "sova",
+        "batida",
+        "espancar",
+        "bate",
+        "vencer",
+        "derrotar"
+    ],
+    "mutilated": [
+        "mutilado",
+        "desfigurado"
+    ],
+    "replied": [
+        "respondeu",
+        "replicou"
+    ],
+    "arrests": [
+        "detenções",
+        "prisões",
+        "apreensões",
+        "prende"
+    ],
+    "prevented": [
+        "impedido",
+        "prevenida",
+        "evitado"
+    ],
+    "ruled": [
+        "governado",
+        "regido",
+        "decidiu",
+        "determinou",
+        "deliberou",
+        "reinou",
+        "pronunciou",
+        "dominado",
+        "comandados",
+        "considerou"
+    ],
+    "evacuated": [
+        "evacuado"
+    ],
+    "assassinate": [
+        "assassinar",
+        "assassinam"
+    ],
+    "used": [
+        "usado",
+        "utilizado",
+        "usada",
+        "usou",
+        "usei",
+        "acostumado",
+        "usaram",
+        "habituado",
+        "costumava",
+        "usava"
+    ],
+    "were": [
+        "foram",
+        "eram",
+        "estava",
+        "fosse",
+        "estivesse",
+        "éramos",
+        "era",
+        "foi",
+        "esteve",
+        "tinha"
+    ],
+    "transferred": [
+        "transferido",
+        "cedidos"
+    ],
+    "shoot-out": [
+        "tiroteio",
+        "pênaltis",
+        "duelo"
+    ],
+    "escaped": [
+        "escapou",
+        "fugiu",
+        "antecedidas"
+    ],
+    "elude": [
+        "iludir",
+        "Prélude",
+        "iludem",
+        "esquivar"
+    ],
+    "suicide bombing": [],
+    "injuries": [
+        "ferimentos",
+        "lesões",
+        "machucados",
+        "escoriações",
+        "danos",
+        "traumatismos",
+        "lesão",
+        "contusões",
+        "acidentes"
+    ],
+    "destruction": [
+        "destruição"
+    ],
+    "communicate": [
+        "comunicar",
+        "nos comunicarmos",
+        "transmitir"
+    ],
+    "diverted": [
+        "desviado",
+        "redireccionada"
+    ],
+    "going": [
+        "indo",
+        "vai",
+        "ir",
+        "irá",
+        "vamos",
+        "vão",
+        "acontecendo",
+        "vou",
+        "iria",
+        "passar",
+        "vá"
+    ],
+    "casualties": [
+        "baixas",
+        "vítimas",
+        "víctimas",
+        "casualidades",
+        "mortes",
+        "feridos",
+        "acidentes",
+        "perdas"
+    ],
+    "hurt": [
+        "machucar",
+        "magoar",
+        "ferido",
+        "doer",
+        "magoe",
+        "magoou",
+        "doeu",
+        "prejudicar",
+        "dói",
+        "mal",
+        "dor"
+    ],
+    "rallies": [
+        "comícios",
+        "ralis",
+        "passeatas",
+        "manifestações"
+    ],
+    "construct": [
+        "construir",
+        "construção"
+    ],
+    "attend": [
+        "frequentar",
+        "participar",
+        "assistir",
+        "comparecer",
+        "atender",
+        "cursar"
+    ],
+    "stabs": [
+        "esfaqueia",
+        "apunhala",
+        "facadas",
+        "punhaladas",
+        "fura"
+    ],
+    "saw": [
+        "vi",
+        "viu",
+        "viram",
+        "vimos",
+        "serra",
+        "visse",
+        "visto",
+        "via"
+    ],
+    "facing": [
+        "enfrentando",
+        "encarando",
+        "virada",
+        "revestimento",
+        "diante",
+        "frente",
+        "voltado",
+        "perante",
+        "face"
+    ],
+    "go off": [],
+    "alleges": [
+        "alega",
+        "invoca"
+    ],
+    "communication": [
+        "comunicação"
+    ],
+    "failed assassination attempt": [],
+    "apologises": [
+        "pede desculpa",
+        "lamenta"
+    ],
+    "listens": [
+        "escuta",
+        "ouve"
+    ],
+    "imprisonment": [
+        "aprisionamento",
+        "prisão",
+        "encarceramento",
+        "reclusão",
+        "detenção"
+    ],
+    "hold": [
+        "segurar",
+        "prender",
+        "preensão",
+        "manter",
+        "aguentar",
+        "abraçar",
+        "espera",
+        "realizar",
+        "conter",
+        "guardar",
+        "esperar"
+    ],
+    "indictment": [
+        "indiciamento",
+        "acusação",
+        "denúncia"
+    ],
+    "described": [
+        "descrito"
+    ],
+    "classified": [
+        "classificados",
+        "confidencial",
+        "secreto",
+        "confidenciais",
+        "secreta"
+    ],
+    "condemned": [
+        "condenado"
+    ],
+    "given": [
+        "dado",
+        "dada",
+        "dadas",
+        "determinado",
+        "deu",
+        "fornecido",
+        "dei",
+        "concedido",
+        "dados",
+        "recebe"
+    ],
+    "reaches": [
+        "atinge",
+        "alcança",
+        "chega",
+        "chegue",
+        "estende"
+    ],
+    "closure": [
+        "encerramento",
+        "fechamento",
+        "fecho",
+        "desfecho"
+    ],
+    "continued": [
+        "continuou",
+        "prosseguiu",
+        "contínua"
+    ],
+    "exploding": [
+        "explodindo"
+    ],
+    "assessment": [
+        "avaliação",
+        "apreciação"
+    ],
+    "insist": [
+        "insistir"
+    ],
+    "watch": [
+        "assistir",
+        "relógio",
+        "prestar atenção",
+        "vigiar",
+        "cuidado",
+        "observar",
+        "ver",
+        "vê",
+        "veja",
+        "olhar",
+        "olhe"
+    ],
+    "sermon": [
+        "sermão",
+        "homilia",
+        "sermões"
+    ],
+    "killing": [
+        "matando",
+        "matar",
+        "matá",
+        "assassinato",
+        "morte",
+        "matado",
+        "acabando",
+        "assassinatos"
+    ],
+    "attach": [
+        "anexar",
+        "anexe",
+        "atribuem",
+        "anexação",
+        "prenda",
+        "unir",
+        "conecte",
+        "fixe",
+        "fixar",
+        "ligue"
+    ],
+    "Attach": [
+        "anexar",
+        "anexe",
+        "atribuem",
+        "anexação",
+        "prenda",
+        "unir",
+        "conecte",
+        "fixe",
+        "fixar",
+        "ligue"
+    ],
+    "seeks": [
+        "procura",
+        "busca",
+        "visa",
+        "destina",
+        "busque"
+    ],
+    "banned": [
+        "banido",
+        "proibido",
+        "interditado",
+        "expulso"
+    ],
+    "trial": [
+        "julgamento",
+        "experimentação",
+        "ensaio",
+        "tentativa",
+        "teste",
+        "avaliação",
+        "prova",
+        "tribunal"
+    ],
+    "ban": [
+        "proibição",
+        "proibir",
+        "banir",
+        "interdição",
+        "banimento",
+        "embargo"
+    ],
+    "offensive": [
+        "ofensiva"
+    ],
+    "ploughs": [
+        "arados",
+        "ara"
+    ],
+    "expressed": [
+        "expressa",
+        "manifestou",
+        "exprimiu"
+    ],
+    "received": [
+        "recebido"
+    ],
+    "figure": [
+        "figura",
+        "figurar",
+        "descobrir",
+        "entender",
+        "resolver",
+        "perceber",
+        "imaginar",
+        "acho"
+    ],
+    "rejected": [
+        "rejeitado",
+        "indeferido",
+        "recusado"
+    ],
+    "put": [
+        "colocar",
+        "pôr",
+        "ponha",
+        "põe",
+        "pôs",
+        "pô",
+        "posto",
+        "abaixe",
+        "guarde",
+        "deixar"
+    ],
+    "crime": [
+        "crime",
+        "delito"
+    ],
+    "grazed": [
+        "pastavam",
+        "roçou",
+        "arranhou",
+        "raspou",
+        "raspão"
+    ],
+    "disarming": [
+        "desarmar",
+        "desconcertante"
+    ],
+    "agreed": [
+        "concordou",
+        "acordado",
+        "aceitou",
+        "combinado",
+        "aprovada",
+        "decidido"
+    ],
+    "Shots": [
+        "tiros",
+        "disparos",
+        "fotos",
+        "injeções",
+        "doses",
+        "capturas",
+        "cenas",
+        "vacinas",
+        "fotografias",
+        "tomadas"
+    ],
+    "visits": [
+        "visitas",
+        "visita"
+    ],
+    "gun down": [],
+    "issued": [
+        "emitido",
+        "expedido",
+        "emissão",
+        "publicou",
+        "proferida",
+        "divulgado",
+        "lançou",
+        "concedido"
+    ],
+    "Sentence": [
+        "sentença",
+        "frase",
+        "sentencio",
+        "pena",
+        "condenação",
+        "oração",
+        "condenar"
+    ],
+    "ran": [
+        "correu",
+        "corri",
+        "executou",
+        "funcionou",
+        "fugiu",
+        "dirigia"
+    ],
+    "went": [
+        "fui",
+        "foi",
+        "fomos",
+        "correu",
+        "passou",
+        "foram",
+        "ido",
+        "ia",
+        "ficou",
+        "deu",
+        "fosse"
+    ],
+    "flee": [
+        "fugir",
+        "fogem",
+        "fujir",
+        "foge",
+        "fujam",
+        "fuja",
+        "fugi"
+    ],
+    "ignite": [
+        "inflamar",
+        "acender",
+        "incendiar",
+        "ignição",
+        "acionar",
+        "reacender"
+    ],
+    "collect evidence": [],
+    "persuade": [
+        "persuadir",
+        "convencer"
+    ],
+    "arrest": [
+        "prender",
+        "detenção",
+        "prisão",
+        "apreensão",
+        "deter",
+        "captura"
+    ],
+    "identifies": [
+        "identifica"
+    ],
+    "Convicted": [
+        "condenado",
+        "acusado",
+        "convicto",
+        "sentenciado"
+    ],
+    "gets life in prison": [],
+    "arrive": [
+        "chegar",
+        "chegue",
+        "chegou"
+    ],
+    "study": [
+        "estudo",
+        "estudar",
+        "escritório"
+    ],
+    "stolen": [
+        "roubado",
+        "roubou",
+        "furtado",
+        "roubei"
+    ],
+    "rushing back": [],
+    "required": [
+        "exigido",
+        "necessário",
+        "requerido",
+        "obrigatório",
+        "solicitado",
+        "desejada"
+    ],
+    "observed": [
+        "observado",
+        "respeitadas"
+    ],
+    "rents": [
+        "aluguéis",
+        "aluga",
+        "rendas",
+        "arrenda"
+    ],
+    "told": [
+        "disse",
+        "contou",
+        "contado",
+        "dito",
+        "contei",
+        "falou",
+        "falei",
+        "avisei",
+        "falado",
+        "informado"
+    ],
+    "curbed": [
+        "refreado",
+        "reprimir",
+        "restringida",
+        "controlada"
+    ],
+    "bleeding": [
+        "sangrando",
+        "sangramento",
+        "hemorragia",
+        "hemorragias"
+    ],
+    "pornography": [],
+    "outlets": [
+        "tomadas",
+        "estabelecimentos",
+        "saídas",
+        "escoamento"
+    ],
+    "locked up": [
+        "trancado",
+        "preso",
+        "presa",
+        "fechado",
+        "prendeu",
+        "internado",
+        "encarcerado"
+    ],
+    "remembers": [
+        "lembra",
+        "recorda",
+        "memoriza",
+        "relembra"
+    ],
+    "threaten": [
+        "ameaçar"
+    ],
+    "gunbattle": [],
+    "inspections": [
+        "inspecções",
+        "controlos",
+        "vistorias",
+        "verificações"
+    ],
+    "suspected": [
+        "suspeita",
+        "desconfiei",
+        "supostos"
+    ],
+    "shattering": [
+        "estilhaçando",
+        "quebrando",
+        "abalar",
+        "estridente",
+        "devastador"
+    ],
+    "Shootout": [
+        "tiroteio",
+        "pênaltis",
+        "duelo"
+    ],
+    "threatened": [
+        "ameaçado"
+    ],
+    "lost": [
+        "perdido",
+        "perdeu",
+        "perda",
+        "perca"
+    ],
+    "indicted": [
+        "indiciado",
+        "acusado",
+        "denunciado"
+    ],
+    "remotely trigger": [],
+    "coercion": [
+        "coerção",
+        "coacção",
+        "coação"
+    ],
+    "die": [
+        "morrer",
+        "morra",
+        "morro",
+        "morrido",
+        "morte"
+    ],
+    "murder": [
+        "assassinato",
+        "homicídio",
+        "assassinar",
+        "crime",
+        "matar",
+        "morte"
+    ],
+    "driven": [
+        "impulsionado",
+        "conduzido",
+        "dirigido",
+        "orientado",
+        "levado",
+        "guiado",
+        "movidos",
+        "expulsos",
+        "acionado",
+        "motivado"
+    ],
+    "carrying": [
+        "carregando",
+        "levando",
+        "escriturada",
+        "transporte",
+        "realização",
+        "portador",
+        "execução",
+        "trazendo"
+    ],
+    "know": [
+        "sei",
+        "sabe",
+        "saber",
+        "conheço",
+        "sabem",
+        "sabia",
+        "saiba",
+        "sabes",
+        "soubesse"
+    ],
+    "integrate": [
+        "integrar"
+    ],
+    "inspected": [
+        "inspecionado",
+        "olhados",
+        "controlados"
+    ],
+    "get": [
+        "obter",
+        "começ",
+        "conseguir",
+        "chegar",
+        "pegar",
+        "receber",
+        "ficar",
+        "tirar",
+        "levar",
+        "ter",
+        "se"
+    ],
+    "Connect": [
+        "conectar",
+        "ligar",
+        "interligar",
+        "conexão",
+        "contato"
+    ],
+    "produced": [
+        "produzido",
+        "fabricados",
+        "elaborado"
+    ],
+    "describe": [
+        "descrever"
+    ],
+    "involved in selling marijuana": [],
+    "slaughter": [
+        "abate",
+        "chacina",
+        "massacre",
+        "matança",
+        "massacrar",
+        "carnificina",
+        "matadouro",
+        "abater"
+    ],
+    "opened fire": [],
+    "discovered": [
+        "descoberto"
+    ],
+    "delivers": [
+        "entrega",
+        "proporciona",
+        "oferece",
+        "fornece",
+        "distribui"
+    ],
+    "searched": [
+        "procurou",
+        "pesquisado",
+        "revistado",
+        "vasculharam",
+        "buscou"
+    ],
+    "fanned out": [],
+    "maimed": [
+        "mutilados",
+        "estropiados",
+        "aleijados"
+    ],
+    "Went": [
+        "fui",
+        "foi",
+        "fomos",
+        "correu",
+        "passou",
+        "foram",
+        "ido",
+        "ia",
+        "ficou",
+        "deu",
+        "fosse"
+    ],
+    "blew": [
+        "soprou",
+        "explodiu",
+        "estragou",
+        "estourou",
+        "soprava",
+        "rebentou",
+        "fundiu",
+        "tocou"
+    ],
+    "demands": [
+        "demandas",
+        "exigências",
+        "exige",
+        "exije",
+        "reivindicações",
+        "pedidos",
+        "requer",
+        "pede"
+    ],
+    "movements": [
+        "movimentos",
+        "deslocações"
+    ],
+    "explode": [
+        "explodir",
+        "explodirem",
+        "rebentar"
+    ],
+    "murdered": [
+        "assassinado",
+        "matou",
+        "morto",
+        "morta",
+        "mataram",
+        "matado",
+        "matei"
+    ],
+    "fever": [
+        "febre"
+    ],
+    "transported": [
+        "transportado",
+        "levados"
+    ],
+    "shootout scene": [],
+    "requested": [
+        "solicitado",
+        "requisitado",
+        "pediu",
+        "requerida"
+    ],
+    "blows": [
+        "sopra",
+        "golpes",
+        "sopros",
+        "funde",
+        "explode",
+        "pancadas",
+        "estoura",
+        "socos",
+        "rebentar",
+        "estraga"
+    ],
+    "escorted": [
+        "escoltado",
+        "acompanhada"
+    ],
+    "wounds": [
+        "feridas",
+        "chagas",
+        "lesões",
+        "fere"
+    ],
+    "convince": [
+        "convencer"
+    ],
+    "mix": [
+        "misturar",
+        "mistura",
+        "mixar",
+        "combinação"
+    ],
+    "identity": [
+        "identidade"
+    ],
+    "rented": [
+        "alugado",
+        "arrendou"
+    ],
+    "possession": [
+        "posse",
+        "porte",
+        "detenção"
+    ],
+    "claims": [
+        "reivindicações",
+        "afirma",
+        "alega",
+        "alegações",
+        "declarações",
+        "reivindica",
+        "reclamações",
+        "afirmações",
+        "créditos",
+        "pedidos"
+    ],
+    "chat": [
+        "chat",
+        "conversar",
+        "papo",
+        "conversa",
+        "bater papo",
+        "bate papo"
+    ],
+    "injured": [
+        "ferido",
+        "lesionado",
+        "machucado",
+        "lesado",
+        "lesada",
+        "magoado",
+        "prejudicado"
+    ],
+    "sold": [
+        "vendido",
+        "vendeu",
+        "comercializados"
+    ],
+    "disseminating messages and videos": [],
+    "posted": [
+        "Postado",
+        "publicado",
+        "postou",
+        "afixado",
+        "postei",
+        "mala postal",
+        "enviado",
+        "destacados",
+        "informado",
+        "colocado",
+        "lançado"
+    ],
+    "reached": [
+        "alcançado",
+        "atingido",
+        "chegou",
+        "chegaram",
+        "contatado",
+        "acedido",
+        "cheguei",
+        "conseguido"
+    ],
+    "statement": [
+        "declaração",
+        "instrução",
+        "demonstrativo",
+        "afirmação",
+        "depoimento",
+        "indicação",
+        "comunicado",
+        "extrato"
+    ],
+    "request": [
+        "solicitação",
+        "pedido",
+        "requisição",
+        "pedir",
+        "peço"
+    ],
+    "searching": [
+        "procurando",
+        "pesquisa",
+        "busca",
+        "vasculhando",
+        "revistar"
+    ],
+    "dismantled": [
+        "desmantelado",
+        "desmontado"
+    ],
+    "analysis": [
+        "análise"
+    ],
+    "search operation": [],
+    "identified": [
+        "identificado"
+    ],
+    "obstructing duties": [],
+    "behind bars": [],
+    "buying": [
+        "comprar",
+        "acreditando",
+        "compras"
+    ],
+    "Death": [
+        "morte",
+        "óbito",
+        "falecimento",
+        "morrer",
+        "mortal"
+    ],
+    "bombing’s": [
+        "bombardeios",
+        "atentados",
+        "explosões",
+        "suicidas"
+    ],
+    "assembling": [
+        "montagem"
+    ],
+    "ultimatum": [
+        "ultimato"
+    ],
+    "blasted": [
+        "jateadas",
+        "maldita",
+        "soprado",
+        "explodiu",
+        "criticou",
+        "soprou"
+    ],
+    "blown": [
+        "soprado",
+        "explodido",
+        "fundido",
+        "estourado",
+        "queimado",
+        "rebentado",
+        "estragado",
+        "descoberto",
+        "destruído"
+    ],
+    "asserted": [
+        "afirmou",
+        "asseverou",
+        "declarada"
+    ],
+    "triggered": [
+        "desencadeada",
+        "acionado",
+        "provocado",
+        "disparado",
+        "despoletado",
+        "accionada",
+        "ativado",
+        "activado",
+        "despertou"
+    ],
+    "shattered": [
+        "estilhaçado",
+        "despedaçado",
+        "quebrado",
+        "abalada",
+        "destruída",
+        "desfeito",
+        "arrasado",
+        "despedaçar"
+    ],
+    "bit": [
+        "pouco",
+        "bocado",
+        "bits",
+        "mordeu",
+        "mordido",
+        "pouquinho",
+        "broca",
+        "pedaço"
+    ],
+    "in": [
+        "em",
+        "na",
+        "no"
+    ],
+    "Firearms": [
+        "armas"
+    ],
+    "blow": [
+        "explodir",
+        "golpe",
+        "soprar",
+        "estourar",
+        "sopro",
+        "rebentar",
+        "sopre",
+        "estragar",
+        "fundir",
+        "destruir"
+    ],
+    "conference": [
+        "conferência",
+        "Congresso",
+        "coletiva"
+    ],
+    "postings": [
+        "postagens",
+        "lançamentos",
+        "afixações",
+        "nomeações"
+    ],
+    "speech": [
+        "discurso",
+        "fala",
+        "expressão",
+        "intervenção",
+        "voz",
+        "palestra"
+    ],
+    "is": [
+        "é",
+        "está",
+        "for",
+        "seja",
+        "estiver",
+        "são",
+        "foi",
+        "tem"
+    ],
+    "arriving": [
+        "chegar",
+        "cheguem"
+    ],
+    "sentenced": [
+        "sentenciado",
+        "condenado"
+    ],
+    "meeting": [
+        "reunião",
+        "encontro",
+        "conhecer",
+        "conhecê",
+        "encontrar",
+        "assembleia",
+        "reunir",
+        "satisfazer",
+        "atender"
+    ],
+    "amputations": [
+        "amputações"
+    ],
+    "verdict": [
+        "veredicto",
+        "sentença"
+    ],
+    "jail": [
+        "cadeia",
+        "prisão",
+        "preso",
+        "presa"
+    ],
+    "Bombing": [
+        "bombardeio",
+        "atentado",
+        "bombardear",
+        "explosão"
+    ],
+    "making sure": [],
+    "Intimidation": [
+        "intimidação"
+    ],
+    "clarified": [
+        "clarificada",
+        "esclarecido"
+    ],
+    "launched": [
+        "lançado",
+        "iniciado"
+    ],
+    "investigating": [
+        "investigando"
+    ],
+    "slain": [
+        "morto",
+        "massacrado",
+        "assassinado",
+        "imolado"
+    ],
+    "crossed": [
+        "cruzados",
+        "cruzou",
+        "atravessou",
+        "cruzei",
+        "ultrapassou",
+        "traiu"
+    ],
+    "vowed": [
+        "jurou",
+        "jurei",
+        "prometeu",
+        "juraram",
+        "juramos"
+    ],
+    "remove": [
+        "remover",
+        "retire",
+        "eliminar",
+        "tirar",
+        "tire",
+        "remoção"
+    ],
+    "address": [
+        "endereço",
+        "morada",
+        "abordar",
+        "endereçar",
+        "resolver",
+        "dirigir",
+        "tratar",
+        "enfrentar"
+    ],
+    "equipped": [
+        "equipado",
+        "apetrechados"
+    ],
+    "Attack": [
+        "ataque",
+        "atacar",
+        "atentado",
+        "atacou",
+        "atacado"
+    ],
+    "commit fraud in an election": [],
+    "wounded": [
+        "ferido",
+        "feriu",
+        "aleijada",
+        "machucado"
+    ],
+    "demonstration": [
+        "demonstração",
+        "manifestação",
+        "demostração",
+        "demo"
+    ],
+    "offers": [
+        "oferece",
+        "ofertas",
+        "dispõe",
+        "apresenta",
+        "proporciona",
+        "serve"
+    ],
+    "attacked": [
+        "atacado",
+        "atacou",
+        "agrediu"
+    ],
+    "suicide": [
+        "suicídio"
+    ],
+    "damages": [
+        "danos",
+        "danifica",
+        "indemnização",
+        "prejuízos",
+        "prejudica",
+        "estragos",
+        "dano"
+    ],
+    "to": [
+        "para",
+        "a"
+    ],
+    "challenge": [
+        "desafio",
+        "desafiar",
+        "contestar"
+    ],
+    "drove into": [],
+    "drug trafficking": [
+        "tráfico"
+    ],
+    "demolished": [
+        "demolido",
+        "demulidos"
+    ],
+    "entered": [
+        "entrou",
+        "entrado",
+        "inserido",
+        "inscrita",
+        "digitado",
+        "introduzido",
+        "entrei",
+        "incorporou",
+        "ingressou",
+        "registada"
+    ],
+    "savaged": [
+        "atacada"
+    ],
+    "sent": [
+        "enviado",
+        "mandou",
+        "mandado",
+        "mandei",
+        "emitido"
+    ],
+    "attempt": [
+        "tentativa",
+        "tente",
+        "tentar",
+        "atentado"
+    ],
+    "bussed": [],
+    "cleared": [
+        "desmarcada",
+        "apuradas",
+        "desminou",
+        "cancelou",
+        "limpo",
+        "inocentado",
+        "liberado",
+        "apagado",
+        "esclarecido",
+        "autorização"
+    ],
+    "attacks": [
+        "ataques",
+        "ataca",
+        "atentados",
+        "atacar"
+    ],
+    "detonated": [
+        "detonada"
+    ],
+    "deaths": [
+        "mortes",
+        "óbitos",
+        "mortos"
+    ],
+    "build": [
+        "construir",
+        "compilação",
+        "compilar",
+        "criar",
+        "configuração",
+        "crie",
+        "montar",
+        "desenvolver"
+    ],
+    "brought": [
+        "trouxe",
+        "trazido",
+        "interposto",
+        "levado",
+        "levou",
+        "trazer"
+    ],
+    "discourage": [
+        "desencorajar",
+        "desanimar",
+        "desestimular",
+        "desincentivar",
+        "dissuadir"
+    ],
+    "captured": [
+        "capturado",
+        "captado",
+        "captou",
+        "conquistou"
+    ],
+    "curfew": [
+        "recolher obrigatório"
+    ],
+    "Arrested": [
+        "preso",
+        "prendeu",
+        "presa",
+        "detido"
+    ],
+    "investigation": [
+        "investigação",
+        "inquérito"
+    ],
+    "kidnapping": [
+        "sequestro",
+        "rapto",
+        "sequestrar",
+        "raptar",
+        "raptá"
+    ],
+    "ridiculed": [
+        "ridicularizado",
+        "zombado"
+    ],
+    "hit": [
+        "atingido",
+        "acertar",
+        "bateu",
+        "bater",
+        "bati",
+        "atropelado",
+        "bata",
+        "batida",
+        "bate",
+        "sucesso",
+        "aperte"
+    ],
+    "arrested": [
+        "preso",
+        "prendeu",
+        "presa",
+        "detido"
+    ],
+    "stormed": [
+        "invadiram",
+        "assaltaram",
+        "atacaram",
+        "atormentado"
+    ],
+    "recalls": [
+        "recorda",
+        "relembra",
+        "lembra",
+        "recordações",
+        "evoca",
+        "recuperações",
+        "resgata"
+    ],
+    "said": [
+        "disse",
+        "dito",
+        "dizia",
+        "afirmou",
+        "falou",
+        "diz",
+        "dizer"
+    ],
+    "order": [
+        "ordem",
+        "fim",
+        "encomendar",
+        "encomenda",
+        "pedido",
+        "ordenar",
+        "requisitar",
+        "pedir",
+        "forma",
+        "modo"
+    ],
+    "repelled": [
+        "repelida",
+        "repulsa"
+    ],
+    "travelled": [
+        "viajou",
+        "percorrida"
+    ],
+    "knew": [
+        "sabia",
+        "conhecia",
+        "soube",
+        "saber",
+        "diria"
+    ],
+    "arrived": [
+        "chegaram",
+        "chegou",
+        "cheguei"
+    ],
+    "probe": [
+        "sonda",
+        "sondar"
+    ],
+    "hearing": [
+        "audiência",
+        "ouvir",
+        "escutando",
+        "aparelho",
+        "aparelhos"
+    ],
+    "examined": [
+        "examinado",
+        "analisou",
+        "estudadas"
+    ],
+    "praising": [
+        "louvando",
+        "elogiando"
+    ],
+    "training": [
+        "treinamento",
+        "formação",
+        "treinando",
+        "capacitação"
+    ],
+    "shot down": [],
+    "declined": [
+        "declinou",
+        "recusou",
+        "diminuiu",
+        "decaiu",
+        "rejeitado",
+        "piorou",
+        "desceu",
+        "negou",
+        "desistiu"
+    ],
+    "threats": [
+        "ameaças",
+        "ameças"
+    ],
+    "Pleads Guilty": [],
+    "claimed": [
+        "alegou",
+        "reivindicou",
+        "reclamado",
+        "afirmou",
+        "pedida",
+        "dizia",
+        "declarou",
+        "custou"
+    ],
+    "asked": [
+        "perguntou",
+        "pediu",
+        "solicitado",
+        "convidado",
+        "questionado",
+        "feitas",
+        "chamou",
+        "pede"
+    ],
+    "ambush": [
+        "emboscada",
+        "emboscar",
+        "cilada",
+        "tocaia",
+        "armadilha"
+    ],
+    "take": [
+        "levar",
+        "tomar",
+        "tirar",
+        "leve",
+        "tome",
+        "pegue",
+        "pegar",
+        "dar",
+        "aceitar",
+        "ter",
+        "fazer"
+    ],
+    "shoot": [
+        "atirar",
+        "disparar",
+        "filmar",
+        "fotografar",
+        "tiro",
+        "matar",
+        "matá",
+        "mate",
+        "acertar",
+        "gravar"
+    ],
+    "battering": [
+        "espancamento",
+        "golpeando",
+        "Demolidor"
+    ],
+    "make": [
+        "fazer",
+        "tornar",
+        "faça",
+        "fazem",
+        "fazê",
+        "faz",
+        "ganhar",
+        "tomar",
+        "deixar",
+        "ter",
+        "dar"
+    ],
+    "shipped": [
+        "enviado",
+        "embarcado",
+        "expedidos",
+        "despachado",
+        "fornecido",
+        "transferidos",
+        "comercializado",
+        "mandado"
+    ],
+    "released": [
+        "lançado",
+        "liberado",
+        "solto",
+        "divulgado",
+        "disponibilizou"
+    ],
+    "find": [
+        "encontrar",
+        "achar",
+        "localizar",
+        "achá",
+        "procurar",
+        "ache",
+        "descobrir",
+        "arranjar",
+        "acham",
+        "acho",
+        "saber"
+    ],
+    "broke": [
+        "quebrou",
+        "partiu",
+        "falido",
+        "rompeu",
+        "infringiu",
+        "à falência",
+        "violou",
+        "estourou"
+    ],
+    "flying": [
+        "voando",
+        "voador",
+        "voar",
+        "vôo",
+        "arvoram",
+        "voam",
+        "pilotar",
+        "voa",
+        "Voos"
+    ],
+    "going off": [],
+    "act": [
+        "ato",
+        "agir",
+        "acto",
+        "atuar",
+        "agem",
+        "aja",
+        "actuar",
+        "actuam",
+        "age",
+        "lei"
+    ],
+    "carjack": [],
+    "taken into custody": [],
+    "leaving": [
+        "deixando",
+        "partindo",
+        "saindo",
+        "sair",
+        "embora",
+        "indo",
+        "abandonar",
+        "ir embora",
+        "saída"
+    ],
+    "bombed": [
+        "bombardeada",
+        "explodiu"
+    ],
+    "relief": [
+        "alívio",
+        "relevo",
+        "socorro",
+        "franquia",
+        "isenção"
+    ],
+    "predations": [],
+    "attempted murder": [],
+    "deported": [
+        "deportado",
+        "expulso"
+    ],
+    "withdrew": [
+        "retirou",
+        "sacou",
+        "desistiu",
+        "denunciou"
+    ],
+    "death": [
+        "morte",
+        "óbito",
+        "falecimento",
+        "morrer",
+        "mortal"
+    ],
+    "clash": [
+        "Clash",
+        "confronto",
+        "embate",
+        "choque",
+        "chocam",
+        "conflito",
+        "colidir"
+    ],
+    "driven over": [],
+    "alleged": [
+        "alegado",
+        "suposto",
+        "alegou",
+        "pretensas",
+        "presumível",
+        "acusado"
+    ],
+    "identify": [
+        "identificar"
+    ],
+    "spent": [
+        "gasto",
+        "gastado",
+        "passou",
+        "passei",
+        "gastei",
+        "passado",
+        "despendido"
+    ],
+    "telephoned": [
+        "telefonou"
+    ],
+    "calculate": [
+        "calcular"
+    ],
+    "constructed": [
+        "construído"
+    ],
+    "compelled": [
+        "compelido",
+        "compilido",
+        "obrigado",
+        "coagido",
+        "impelidos",
+        "forçado"
+    ],
+    "begging": [
+        "implorando",
+        "mendigar",
+        "suplicando"
+    ],
+    "noticed": [
+        "notado",
+        "notei",
+        "observei",
+        "reparou",
+        "notou",
+        "percebeu",
+        "notaram"
+    ],
+    "call": [
+        "chamar",
+        "chamada",
+        "ligar",
+        "chame",
+        "telefonar",
+        "chamo",
+        "ligação",
+        "telefonema",
+        "indicativo"
+    ],
+    "prison": [
+        "prisão",
+        "cadeia",
+        "cárcere",
+        "presídio",
+        "preso"
+    ],
+    "admit": [
+        "admitir",
+        "confessar",
+        "reconhecer"
+    ],
+    "failed": [
+        "falhou",
+        "fracassado",
+        "reprovado"
+    ],
+    "trip": [
+        "viagem",
+        "desengate",
+        "tropeçar",
+        "passeio",
+        "ida",
+        "viajar",
+        "visita",
+        "excursão"
+    ],
+    "led": [
+        "LED",
+        "liderada",
+        "conduziu",
+        "levou",
+        "levaram",
+        "diodo emissor",
+        "guiado",
+        "LEDs",
+        "comandado",
+        "dirigida"
+    ],
+    "recovered": [
+        "recuperado",
+        "valorizados",
+        "resgatado"
+    ],
+    "closed down": [],
+    "war": [
+        "guerra"
+    ],
+    "visit": [
+        "visitar",
+        "visita",
+        "acesse"
+    ],
+    "Sentenced": [
+        "sentenciado",
+        "condenado"
+    ],
+    "procure": [
+        "adquirir",
+        "obter"
+    ],
+    "maiming": [
+        "mutilação",
+        "mutilar"
+    ],
+    "fleeing": [
+        "fugindo",
+        "fogem",
+        "fujir",
+        "fujem",
+        "fuga",
+        "foge",
+        "escapando"
+    ],
+    "acknowledged": [
+        "reconhecido",
+        "confirmados",
+        "admitiu"
+    ],
+    "injury": [
+        "lesão",
+        "ferimento",
+        "prejuízo",
+        "lesões",
+        "injúria",
+        "danos",
+        "dano",
+        "machucado"
+    ],
+    "loss": [
+        "perda",
+        "prejuízo",
+        "derrota",
+        "queda"
+    ],
+    "raids": [
+        "incursões",
+        "invasões",
+        "rusgas",
+        "ataques",
+        "batidas",
+        "assaltos"
+    ],
+    "AWOL": [
+        "AWOL",
+        "desertor",
+        "sumido"
+    ],
+    "cataloging": [
+        "catalogação"
+    ],
+    "raised": [
+        "levantou",
+        "gerado",
+        "Erguido",
+        "criado",
+        "disparado",
+        "criou",
+        "aumentado",
+        "criei",
+        "elevado",
+        "cresceu",
+        "educado"
+    ],
+    "blocked": [
+        "bloqueado",
+        "obstruído",
+        "entupido",
+        "impedido"
+    ],
+    "shots": [
+        "tiros",
+        "disparos",
+        "fotos",
+        "injeções",
+        "doses",
+        "capturas",
+        "cenas",
+        "vacinas",
+        "fotografias",
+        "tomadas"
+    ],
+    "got": [
+        "tem",
+        "tenho",
+        "conseguiu",
+        "ficou",
+        "recebeu",
+        "pegou",
+        "temos",
+        "começ",
+        "tens",
+        "foi"
+    ],
+    "scrapes": [
+        "arranhões",
+        "raspa",
+        "riscados",
+        "arranha",
+        "encrencas"
+    ],
+    "ignited": [
+        "inflamado",
+        "incendiado",
+        "acendeu",
+        "incinerado",
+        "despertou"
+    ],
+    "inauguration": [
+        "inauguração",
+        "posse",
+        "investidura"
+    ],
+    "arrange": [
+        "organizar",
+        "arranjar",
+        "providenciar",
+        "disponha",
+        "arrumar",
+        "marcar",
+        "combinar",
+        "mandar"
+    ],
+    "smashed": [
+        "esmagou",
+        "esmagado",
+        "despedaçado",
+        "quebrou",
+        "despedaçou",
+        "partiu",
+        "bateu",
+        "destruiu",
+        "destruído"
+    ],
+    "fled": [
+        "fugiu",
+        "fujido",
+        "refugiou",
+        "escapou"
+    ],
+    "mounted": [
+        "montado",
+        "montou",
+        "fixado"
+    ],
+    "buy": [
+        "comprar",
+        "pagar",
+        "adquirir"
+    ],
+    "pressuring": [
+        "pressionando"
+    ],
+    "dead": [
+        "morto",
+        "morta",
+        "morreu",
+        "inoperante",
+        "morrido",
+        "morte",
+        "falecido"
+    ],
+    "explanation": [
+        "explicação"
+    ],
+    "asking": [
+        "perguntando",
+        "pedindo",
+        "solicitando",
+        "pede",
+        "convidar",
+        "fazendo",
+        "chamando"
+    ],
+    "Asked": [
+        "perguntou",
+        "pediu",
+        "solicitado",
+        "convidado",
+        "questionado",
+        "feitas",
+        "chamou",
+        "pede"
+    ],
+    "bomb": [
+        "bomba",
+        "bombardear"
+    ],
+    "crashing": [
+        "falhando",
+        "bater",
+        "batendo",
+        "cair",
+        "travando",
+        "caindo",
+        "quebrando"
+    ],
+    "killed": [
+        "matou",
+        "morto",
+        "mataram",
+        "matado",
+        "matei",
+        "morta",
+        "assassinado",
+        "mataste",
+        "matamos",
+        "morrer",
+        "matá"
+    ],
+    "return": [
+        "retorno",
+        "retornar",
+        "voltar",
+        "devolver",
+        "regresso",
+        "regressar",
+        "troca",
+        "devolução",
+        "volta"
+    ],
+    "inspect": [
+        "inspecionar",
+        "fiscalizar",
+        "examinar"
+    ],
+    "disarm": [
+        "desarmar",
+        "desactivar"
+    ],
+    "repel": [
+        "repelir"
+    ],
+    "disaster": [
+        "desastre",
+        "disastre",
+        "catástrofe"
+    ],
+    "convicting": [
+        "condenar"
+    ],
+    "set off": [],
+    "scrawled": [
+        "rabiscadas"
+    ],
+    "reported": [
+        "relatado",
+        "reportado",
+        "informou",
+        "comunicados",
+        "notificados",
+        "denunciou",
+        "referiram",
+        "registrou",
+        "declarados"
+    ],
+    "taken to hospital": [],
+    "handled": [
+        "manipulado",
+        "manuseados",
+        "tratado",
+        "lidou com",
+        "segurado",
+        "manejado",
+        "cuidou",
+        "tratou",
+        "resolvido",
+        "controlado"
+    ],
+    "running": [
+        "executando",
+        "correndo",
+        "funcionando",
+        "sendo executado",
+        "rodando",
+        "fugir",
+        "corrida",
+        "ficando",
+        "dirigindo"
+    ],
+    "conspiracy": [
+        "conspiração",
+        "complô"
+    ],
+    "revenge": [
+        "vingança",
+        "revanche"
+    ],
+    "violence": [
+        "violência"
+    ],
+    "Deployment": [
+        "implantação",
+        "destacamento",
+        "distribuição"
+    ],
+    "interviewed": [
+        "entrevistado",
+        "interrogou"
+    ],
+    "talked": [
+        "conversamos",
+        "falado",
+        "falou",
+        "falei"
+    ],
+    "apologised": [
+        "se desculpou",
+        "pediu desculpas",
+        "me desculpei"
+    ],
+    "blending": [
+        "mistura",
+        "entremesclar",
+        "loteamento",
+        "mesclagem",
+        "entremesclados",
+        "combinando"
+    ],
+    "gunshots": [
+        "tiros",
+        "disparos"
+    ],
+    "coming": [
+        "vindo",
+        "chegando",
+        "vem",
+        "vir",
+        "próximos",
+        "voltando",
+        "virá",
+        "indo",
+        "entrar"
+    ],
+    "those": [
+        "aqueles",
+        "esses",
+        "essas"
+    ],
+    "assault": [
+        "assalto",
+        "agressão",
+        "ataque",
+        "agredir",
+        "assaltar",
+        "abuso"
+    ],
+    "Attacks": [
+        "ataques",
+        "ataca",
+        "atentados",
+        "atacar"
+    ],
+    "blasts": [
+        "explosões",
+        "blastos",
+        "rajadas",
+        "explode",
+        "sopra"
+    ],
+    "been in touch": [],
+    "charges": [
+        "acusações",
+        "encargos",
+        "cargas",
+        "queixa",
+        "cobranças",
+        "taxas",
+        "cobra",
+        "carrega",
+        "custos",
+        "tarifas",
+        "despesas"
+    ],
+    "strikes": [
+        "greves",
+        "golpeia",
+        "ataca",
+        "atinge",
+        "batidas",
+        "ataques",
+        "golpes",
+        "impressiona",
+        "bate"
+    ],
+    "shootings": [
+        "tiroteios",
+        "fuzilamentos",
+        "disparos"
+    ],
+    "recaptured": [
+        "recapturado",
+        "reconquistou"
+    ],
+    "cordoned": [],
+    "purchased": [
+        "comprado",
+        "adquiridos"
+    ],
+    "removed": [
+        "removido",
+        "retirado",
+        "eliminados",
+        "tirado",
+        "tirou"
+    ],
+    "probing": [
+        "sondagem"
+    ],
+    "atttack": [],
+    "reassembled": [
+        "reagrupados",
+        "remontado",
+        "recomposto"
+    ],
+    "sentence": [
+        "sentença",
+        "frase",
+        "sentencio",
+        "pena",
+        "condenação",
+        "oração",
+        "condenar"
+    ],
+    "flew": [
+        "voou",
+        "voaram",
+        "voei",
+        "voava",
+        "voamos",
+        "pilotou",
+        "viajou",
+        "voando"
+    ],
+    "fired": [
+        "despedido",
+        "demitido",
+        "disparou",
+        "ateado fogo",
+        "acionado",
+        "atirou"
+    ],
+    "damage": [
+        "danos",
+        "dano",
+        "danificar",
+        "estragos",
+        "danificam",
+        "prejuízos",
+        "prejudicar",
+        "avarias",
+        "lesão",
+        "lesões"
+    ],
+    "tested": [
+        "testado",
+        "testei",
+        "testou",
+        "ensaiadas",
+        "examinado",
+        "analisados"
+    ],
+    "acquitted": [
+        "absolvido",
+        "inocentado",
+        "ilibado"
+    ],
+    "the investigations": [],
+    "devastated": [
+        "devastada",
+        "arrasada",
+        "assolou",
+        "desolado",
+        "rastos"
+    ],
+    "setting off": [],
+    "took": [
+        "levou",
+        "tomou",
+        "tirou",
+        "levaram",
+        "pegou",
+        "levei",
+        "tirei",
+        "tomei",
+        "tiraram",
+        "peguei",
+        "teve"
+    ],
+    "met": [
+        "conheci",
+        "encontrou",
+        "reuniu",
+        "atendidas",
+        "cumpridas",
+        "satisfeitas"
+    ],
+    "escape": [
+        "escapar",
+        "fuga",
+        "fugir",
+        "fuja"
+    ],
+    "purchasing": [
+        "comprar",
+        "compras",
+        "aquisição",
+        "adquirir"
+    ],
+    "vandalized": [
+        "vandalizado"
+    ],
+    "ripped": [
+        "rasgado",
+        "rasgou",
+        "arrancou",
+        "ripadas",
+        "rasguei",
+        "musculoso"
+    ],
+    "testified": [
+        "testemunhou",
+        "testificou",
+        "depôs",
+        "declarou",
+        "atestou"
+    ],
+    "explained": [
+        "explicou"
+    ],
+    "face": [
+        "rosto",
+        "cara",
+        "enfrentar",
+        "encarar",
+        "frente",
+        "facial"
+    ],
+    "small-scale rebellions": [],
+    "association to commit a crime": [],
+    "kill": [
+        "matar",
+        "matá",
+        "mate",
+        "matam",
+        "mato",
+        "matem",
+        "matou",
+        "matasse",
+        "matei"
+    ],
+    "murders": [
+        "assassinatos",
+        "homicídios",
+        "crimes",
+        "mortes",
+        "mata"
+    ],
+    "slaying": [
+        "matando"
+    ],
+    "bring down": [],
+    "built": [
+        "construído",
+        "interno",
+        "criado",
+        "incorporado",
+        "embutido",
+        "compilado"
+    ],
+    "stopped": [
+        "parou",
+        "parado",
+        "pararam",
+        "parei",
+        "interrompido",
+        "impedido",
+        "paramos",
+        "detido",
+        "deteve",
+        "parasse",
+        "deixou"
+    ],
+    "say": [
+        "dizer",
+        "diga",
+        "diz",
+        "digo",
+        "disse",
+        "diria",
+        "falar"
+    ],
+    "drives": [
+        "unidades",
+        "movimentações",
+        "dirige",
+        "DriveSpace",
+        "impulsiona",
+        "conduz",
+        "rígidos",
+        "discos",
+        "leva",
+        "deixa"
+    ],
+    "seized": [
+        "apreendidos",
+        "aproveitou",
+        "confiscados",
+        "penhorados",
+        "apoderou",
+        "agarrou",
+        "tomaram",
+        "tomado",
+        "capturados"
+    ],
+    "found guilty": [],
+    "collecting": [
+        "coleta",
+        "recolher",
+        "cobrança",
+        "juntando",
+        "arrecadação",
+        "reunir"
+    ],
+    "Dialogue": [
+        "diálogo"
+    ],
+    "defeat": [
+        "derrota",
+        "derrotar",
+        "vencer"
+    ],
+    "Sent": [
+        "enviado",
+        "mandou",
+        "mandado",
+        "mandei",
+        "emitido"
+    ],
+    "downed": [
+        "derrubaram",
+        "tragadas",
+        "abatido",
+        "caída",
+        "abatidos"
+    ],
+    "Arrests": [
+        "detenções",
+        "prisões",
+        "apreensões",
+        "prende"
+    ],
+    "devastation": [
+        "devastação"
+    ],
+    "the assassination attempt": [],
+    "spoken": [
+        "falado",
+        "falou",
+        "falei",
+        "ditas",
+        "pronunciadas",
+        "conversou",
+        "proferidas"
+    ],
+    "ferried": [],
+    "caught": [
+        "apanhado",
+        "pego",
+        "capturado",
+        "pegou",
+        "travado",
+        "pegos",
+        "peguei",
+        "preso",
+        "pegaram",
+        "chamou",
+        "pega"
+    ],
+    "protests": [
+        "protestos",
+        "manifestações"
+    ],
+    "conducted raids": [],
+    "claiming": [
+        "alegando",
+        "reivindicando",
+        "afirmando",
+        "clamando",
+        "reclamar",
+        "pretendendo",
+        "declarando"
+    ],
+    "served": [
+        "servido",
+        "serido",
+        "atuou",
+        "atendidos",
+        "cumpriu",
+        "serve"
+    ],
+    "mayhem": [
+        "caos",
+        "desordem",
+        "mutilação",
+        "confusão",
+        "destruição"
+    ],
+    "speaking": [
+        "falando",
+        "língua",
+        "discurso",
+        "conversando"
+    ],
+    "bombardment": [
+        "bombardeio"
+    ],
+    "presented": [
+        "apresentado",
+        "presenteado"
+    ],
+    "robbery": [
+        "roubo",
+        "assalto",
+        "extorsão",
+        "furto"
+    ],
+    "warning": [
+        "aviso",
+        "advertência",
+        "alerta",
+        "atenção",
+        "advertindo",
+        "avisar",
+        "alertando"
+    ],
+    "Shootings": [
+        "tiroteios",
+        "fuzilamentos",
+        "disparos"
+    ],
+    "sentencing": [
+        "sentença",
+        "condenação",
+        "sentenciando",
+        "condenar",
+        "penas"
+    ],
+    "court": [
+        "tribunal",
+        "corte",
+        "quadra",
+        "judicial",
+        "julgamento",
+        "justiça",
+        "juiz",
+        "pátio"
+    ],
+    "custody": [
+        "custódia",
+        "guarda",
+        "tutela"
+    ],
+    "yelled out": [],
+    "charged": [
+        "cobrado",
+        "carregada",
+        "acusado",
+        "cobrou",
+        "debitado",
+        "encarregado",
+        "imputados",
+        "recarregadas",
+        "praticados",
+        "acusou"
+    ],
+    "indentified": [],
+    "Killed": [
+        "matou",
+        "morto",
+        "mataram",
+        "matado",
+        "matei",
+        "morta",
+        "assassinado",
+        "mataste",
+        "matamos",
+        "morrer",
+        "matá"
+    ],
+    "pleaded": [
+        "implorou",
+        "suplicou",
+        "defendeu",
+        "alegou",
+        "pediu",
+        "confessou"
+    ],
+    "commands": [
+        "comandos",
+        "comanda",
+        "ordena",
+        "mandamentos",
+        "ordens",
+        "encomendas"
+    ],
+    "totalled": [
+        "totalizaram"
+    ],
+    "mixed": [
+        "misto",
+        "misturado",
+        "mixado",
+        "confusos"
+    ],
+    "involved": [
+        "envolvido",
+        "involvidos",
+        "implicados",
+        "intervenientes",
+        "participar"
+    ],
+    "in transit": [],
+    "targets": [
+        "alvos",
+        "metas",
+        "destinos",
+        "objectivos",
+        "alveja",
+        "objetivos",
+        "visa",
+        "destina"
+    ],
+    "interrogated": [
+        "interrogado"
+    ],
+    "wrecked": [
+        "destruído",
+        "naufragou",
+        "estragou",
+        "arruinou",
+        "arrasou"
+    ],
+    "shootout": [
+        "tiroteio",
+        "pênaltis",
+        "duelo"
+    ],
+    "releasing": [
+        "liberando",
+        "lançando",
+        "soltar",
+        "divulgar"
+    ],
+    "heading toward": [],
+    "appears": [
+        "aparece",
+        "parece",
+        "exibida",
+        "surge",
+        "afigura",
+        "apresentado"
+    ],
+    "blames": [
+        "culpa",
+        "responsabiliza",
+        "acusa"
+    ],
+    "planted": [
+        "plantadas",
+        "colocou"
+    ],
+    "search": [
+        "busca",
+        "Pesquisar",
+        "pesquisa",
+        "procurar",
+        "procura",
+        "revistar",
+        "buscar"
+    ],
+    "added": [
+        "adicionado",
+        "acrescentou",
+        "agregado",
+        "aditado",
+        "somado"
+    ],
+    "close down": [],
+    "ripped through": [],
+    "taken": [
+        "tomadas",
+        "levado",
+        "tirada",
+        "feito exame",
+        "tida",
+        "tido",
+        "adoptadas",
+        "retirado",
+        "tomou",
+        "tomar",
+        "levou"
+    ],
+    "make an online purchase": [],
+    "release": [
+        "liberação",
+        "liberar",
+        "lançamento",
+        "solte",
+        "versão",
+        "comunicado",
+        "lançar",
+        "desbloqueio"
+    ],
+    "struck": [
+        "golpeou",
+        "atingido",
+        "impressionado",
+        "bateu",
+        "surpreendeu",
+        "atacou",
+        "pareceu",
+        "batido",
+        "atacado"
+    ],
+    "brought down": [],
+    "carried out": [
+        "realizado",
+        "efectuada",
+        "executada",
+        "efetuada",
+        "desenvolvidas",
+        "exercida",
+        "levada",
+        "cumpridas",
+        "conduzido"
+    ],
+    "train": [
+        "trem",
+        "comboio",
+        "treinar",
+        "ferroviária",
+        "formar"
+    ],
+    "guilty": [
+        "culpado"
+    ],
+    "misdemeanor": [
+        "contravenção",
+        "delito",
+        "infração"
+    ],
+    "says": [
+        "diz",
+        "disse",
+        "afirma",
+        "dizem",
+        "diga",
+        "fala"
+    ],
+    "examining": [
+        "examinar",
+        "analisar",
+        "exame"
+    ],
+    "toll": [
+        "pedágio",
+        "portagem"
+    ],
+    "suffered": [
+        "sofreu",
+        "sofrido"
+    ],
+    "looking": [
+        "olhando",
+        "procurando",
+        "vista",
+        "aparência",
+        "busca",
+        "atrás",
+        "aspecto",
+        "bonito",
+        "vendo"
+    ],
+    "migrations": [
+        "migrações"
+    ],
+    "hunted": [
+        "caçado",
+        "caçavam",
+        "caçou",
+        "caçamos",
+        "perseguido",
+        "caçaram",
+        "cacei",
+        "caça"
+    ],
+    "forced": [
+        "forçado",
+        "forçou",
+        "obrigado",
+        "forcei"
+    ],
+    "punished": [
+        "punido",
+        "castigado"
+    ],
+    "aired": [
+        "arejado",
+        "arejou",
+        "veiculado",
+        "exibido",
+        "transmitido",
+        "ventilado"
+    ],
+    "remotely-detonate": [],
+    "outlawed": [
+        "proscrito",
+        "banida",
+        "proibido"
+    ],
+    "gunfight": [
+        "tiroteio",
+        "duelo"
+    ],
+    "promised": [
+        "prometeu"
+    ],
+    "riding": [
+        "montando",
+        "equitação",
+        "cavalgando",
+        "andar",
+        "andando",
+        "pilotagem",
+        "pilotando",
+        "cavalo",
+        "rodar",
+        "dirigindo"
+    ],
+    "bloody conflict": [],
+    "interview": [
+        "entrevista",
+        "entrevistar",
+        "interrogatório",
+        "interrogar"
+    ],
+    "appeals": [
+        "apelações",
+        "agrada",
+        "atrai"
+    ],
+    "virus": [
+        "vírus",
+        "antivírus"
+    ],
+    "critiques": [
+        "críticas",
+        "critica"
+    ],
+    "called": [
+        "chamado",
+        "ligou",
+        "chamou",
+        "telefonou",
+        "chamei",
+        "denominado"
+    ],
+    "treated": [
+        "tratado",
+        "tratou",
+        "tratei"
+    ],
+    "explosions": [
+        "explosões"
+    ],
+    "occurred": [
+        "ocorreu"
+    ],
+    "made": [
+        "feito",
+        "fez",
+        "fizeram",
+        "fiz",
+        "cometeu",
+        "efectuada",
+        "tornou",
+        "tornaram",
+        "fazia",
+        "realizados",
+        "deixou"
+    ],
+    "shot": [
+        "tiro",
+        "baleado",
+        "atirou",
+        "alvejado",
+        "disparado",
+        "disparou",
+        "filmado",
+        "injeção",
+        "atingido",
+        "chance",
+        "foto"
+    ],
+    "terror attacks": [],
+    "fatally": [
+        "fatalmente"
+    ],
+    "put together": [],
+    "presents": [
+        "apresenta",
+        "presentes",
+        "prendas"
+    ],
+    "disoriented": [
+        "desorientado",
+        "desorientados"
+    ],
+    "expelled": [
+        "expulso",
+        "expelido"
+    ],
+    "Found Guilty": [],
+    "battle": [
+        "batalha",
+        "combate",
+        "luta",
+        "combater"
+    ],
+    "borrows": [
+        "empresta",
+        "emprestado"
+    ],
+    "Indict": [
+        "indiciar",
+        "acusar"
+    ],
+    "gunfire": [
+        "tiros",
+        "disparos"
+    ],
+    "defused": [
+        "desactivou",
+        "neutralizada",
+        "desarmada",
+        "desativada"
+    ],
+    "packed": [
+        "embalado",
+        "lotado",
+        "acondicionados",
+        "empacotado",
+        "repleto",
+        "cheio",
+        "arrumou",
+        "compactado",
+        "prontas"
+    ],
+    "broken": [
+        "quebrado",
+        "partido",
+        "quebrou",
+        "avariado",
+        "desfeito",
+        "rompido",
+        "estragado",
+        "interrompida",
+        "partiu",
+        "dividido",
+        "destruído"
+    ],
+    "discussed": [
+        "discutido",
+        "debatido",
+        "abordados"
+    ],
+    "affix": [
+        "apor",
+        "aposição",
+        "afixo",
+        "afixar"
+    ],
+    "declared": [
+        "declarado"
+    ],
+    "accused": [
+        "acusado",
+        "acusou",
+        "acusei",
+        "arguido",
+        "réu"
+    ],
+    "placed": [
+        "colocado",
+        "posicionado",
+        "situado",
+        "posto"
+    ],
+    "detonation": [
+        "detonação"
+    ],
+    "kills": [
+        "mata",
+        "mate",
+        "matanças",
+        "matar",
+        "mortes",
+        "matou",
+        "matam"
+    ],
+    "Destroy": [
+        "destruir"
+    ],
+    "arson": [
+        "fogo posto",
+        "incêndio",
+        "proposital",
+        "culposo",
+        "premeditado"
+    ],
+    "saying": [
+        "dizendo",
+        "ditado",
+        "falando",
+        "provérbio",
+        "diz",
+        "disse"
+    ],
+    "in custody": [],
+    "run down": [],
+    "armed": [
+        "armado",
+        "armou"
+    ],
+    "threatening": [
+        "ameaçando",
+        "ameaçador"
+    ],
+    "the attacks of September 11, 2001.": [],
+    "report": [
+        "relatório",
+        "relatar",
+        "reportar",
+        "reportagem",
+        "denunciar",
+        "informar",
+        "informe",
+        "denúncia",
+        "comunicar",
+        "apresente",
+        "queixa"
+    ],
+    "violations": [
+        "violações",
+        "infrações"
+    ],
+    "crashed": [
+        "caiu",
+        "despenhou",
+        "bateu",
+        "travou",
+        "colidiu",
+        "caído",
+        "batido"
+    ],
+    "wrote": [
+        "escreveu"
+    ],
+    "stated": [
+        "afirmou",
+        "declarou",
+        "indicado",
+        "referido",
+        "dito",
+        "estabelecido",
+        "mencionado"
+    ],
+    "combat": [
+        "combate",
+        "combater",
+        "luta contra"
+    ],
+    "gunned down": [
+        "baleado",
+        "abatida",
+        "alvejado"
+    ],
+    "burn": [
+        "queimar",
+        "queimadura",
+        "gravar",
+        "arder",
+        "arde",
+        "incendiar",
+        "gravação"
+    ],
+    "assured": [
+        "assegurado",
+        "garantiu",
+        "certeza",
+        "descansados",
+        "tranquilo"
+    ],
+    "destroys": [
+        "destrói"
+    ],
+    "worked": [
+        "trabalhou",
+        "funcionou",
+        "resultou"
+    ],
+    "met up": [],
+    "homicide": [
+        "homicídio"
+    ],
+    "telling": [
+        "dizendo",
+        "contar",
+        "falando",
+        "informando",
+        "diz",
+        "mandando",
+        "avisar"
+    ],
+    "incarcerated": [
+        "encarcerado",
+        "preso"
+    ],
+    "detonated remotely": [],
+    "passing through": [
+        "passagem",
+        "atravessando"
+    ],
+    "confirmed": [
+        "confirmou"
+    ],
+    "announcement": [
+        "anúncio",
+        "comunicado",
+        "pronunciamento",
+        "edital",
+        "aviso"
+    ],
+    "Packing": [
+        "embalagem",
+        "fazer as malas",
+        "embalar",
+        "arrumando",
+        "empacotar",
+        "empacotamento",
+        "acondicionamento",
+        "remessa"
+    ],
+    "drove": [
+        "dirigiu",
+        "conduziu",
+        "levou",
+        "levaram",
+        "levei"
+    ],
+    "light": [
+        "luz",
+        "leve",
+        "acender",
+        "acenda",
+        "claro",
+        "iluminar",
+        "ligeira",
+        "luzes",
+        "iluminação"
+    ],
+    "kidnapped": [
+        "sequestrado",
+        "raptada",
+        "raptou",
+        "raptei"
+    ],
+    "warned": [
+        "avisado",
+        "advertiu",
+        "alertou",
+        "preveniu"
+    ],
+    "sidesteps": [],
+    "acquired": [
+        "adquiriu",
+        "obtidos"
+    ],
+    "blown up": [],
+    "delivered": [
+        "entregue",
+        "proferido",
+        "libertou",
+        "fornecido",
+        "emitido",
+        "livrou",
+        "enviados"
+    ],
+    "charging": [
+        "cobrando",
+        "carregamento",
+        "tarifação",
+        "carga",
+        "acusar",
+        "recarga"
+    ],
+    "Chikungunya": [],
+    "standoff": [
+        "impasse",
+        "confronto",
+        "empate"
+    ],
+    "researching": [
+        "pesquisando",
+        "investigar"
+    ],
+    "included": [
+        "incluído"
+    ],
+    "influenced": [
+        "influenciado"
+    ],
+    "convictions": [
+        "convicções",
+        "condenações"
+    ],
+    "seen": [
+        "visto",
+        "vi",
+        "viu",
+        "viram",
+        "vimos",
+        "vejo",
+        "observado",
+        "vê",
+        "considerado",
+        "via"
+    ],
+    "stopping": [
+        "parando",
+        "parar",
+        "impedir",
+        "interromper",
+        "parada",
+        "paragem",
+        "pará",
+        "deter",
+        "param"
+    ],
+    "rocked": [
+        "abalou",
+        "balançou",
+        "bombou",
+        "arrasou",
+        "sacudiu",
+        "detonado"
+    ],
+    "declares": [
+        "declara"
+    ],
+    "rob": [
+        "Rob",
+        "roubar",
+        "assaltar",
+        "assalte",
+        "roube",
+        "roubo",
+        "roubou",
+        "roubei"
+    ],
+    "fabricate": [
+        "fabricar"
+    ],
+    "Damage": [
+        "danos",
+        "dano",
+        "danificar",
+        "estragos",
+        "danificam",
+        "prejuízos",
+        "prejudicar",
+        "avarias",
+        "lesão",
+        "lesões"
+    ],
+    "identifying": [
+        "identificar"
+    ],
+    "colliding": [
+        "colidir"
+    ],
+    "assassinations": [
+        "assassinatos",
+        "atentados"
+    ],
+    "Shoots Down": [],
+    "damaged": [
+        "danificado",
+        "avariado",
+        "estragado",
+        "prejudicado",
+        "danos"
+    ],
+    "bombing": [
+        "bombardeio",
+        "atentado",
+        "bombardear",
+        "explosão"
+    ],
+    "embargo": [
+        "embargo"
+    ],
+    "gunned": [],
+    "demonstrations": [
+        "demonstrações",
+        "manifestações",
+        "protestos"
+    ],
+    "blowing up": [],
+    "flown": [
+        "voado",
+        "voada",
+        "pilotado",
+        "voou",
+        "voei",
+        "voaram",
+        "levado",
+        "viajei"
+    ],
+    "discharge": [
+        "descarga",
+        "quitação",
+        "corrimento",
+        "descarregar",
+        "dispensa",
+        "apuramento",
+        "secreção"
+    ],
+    "parole": [
+        "condicional"
+    ],
+    "smuggling": [
+        "contrabando",
+        "contrabandeando",
+        "tráfico",
+        "traficando"
+    ],
+    "combated": [
+        "combatida"
+    ],
+    "took place": [],
+    "injure": [
+        "ferir",
+        "ferem",
+        "lesionar",
+        "lesar",
+        "fere",
+        "fira"
+    ],
+    "sends": [
+        "envia",
+        "manda",
+        "emite",
+        "mandou"
+    ],
+    "blocks": [
+        "blocos",
+        "quarteirões",
+        "bloqueia",
+        "quadras",
+        "obstrui"
+    ],
+    "collapse": [
+        "colapso",
+        "desmoronar",
+        "recolher",
+        "desmoronamento",
+        "desabamento",
+        "colapsar",
+        "ruir",
+        "desabar",
+        "queda"
+    ],
+    "denounced": [
+        "denunciou"
+    ],
+    "connect": [
+        "conectar",
+        "ligar",
+        "interligar",
+        "conexão",
+        "contato"
+    ],
+    "fatally stabbed": [],
+    "opened a probe": [],
+    "reviewing": [
+        "revendo",
+        "rever",
+        "revisão",
+        "analisar",
+        "revê",
+        "examinar"
+    ],
+    "attack": [
+        "ataque",
+        "atacar",
+        "atentado",
+        "atacou",
+        "atacado"
+    ],
+    "recalled": [
+        "recordou",
+        "lembrou",
+        "relembrava",
+        "evocou",
+        "recolhido",
+        "convocado"
+    ],
+    "happened": [
+        "aconteceu",
+        "houve",
+        "passou",
+        "tivesse acontecido",
+        "ocorreu"
+    ],
+    "bullied": [
+        "intimidado",
+        "tiranizado",
+        "maltratado",
+        "bullying",
+        "ameaçado",
+        "agredido",
+        "assediado",
+        "gozado",
+        "amedrontado",
+        "provocada",
+        "comandada"
+    ],
+    "explosion": [
+        "explosão"
+    ],
+    "rampage": [
+        "rampage",
+        "alvoroço",
+        "tumulto",
+        "fúria"
+    ],
+    "interviews": [
+        "entrevistas",
+        "interrogatórios"
+    ],
+    "investigate": [
+        "investigar",
+        "averiguar"
+    ],
+    "gain entry": [],
+    "plant": [
+        "planta",
+        "plantar",
+        "fábrica",
+        "usina",
+        "vegetal",
+        "central",
+        "instalação"
+    ],
+    "hospitalized": [
+        "hospitalizado",
+        "internado"
+    ],
+    "attempted homicide": [],
+    "obtained": [
+        "Obtido",
+        "obteve"
+    ],
+    "deliver": [
+        "entregar",
+        "livrai",
+        "fornecer",
+        "oferecer",
+        "proporcionar",
+        "cumprir",
+        "libertar"
+    ],
+    "buys": [
+        "compra",
+        "adquire",
+        "compras"
+    ],
+    "conducted": [
+        "conduzido",
+        "realizado",
+        "efectuados",
+        "efetuados"
+    ],
+    "run": [
+        "executar",
+        "correr",
+        "corra",
+        "execução",
+        "funcionar",
+        "fugir",
+        "prazo",
+        "corrida",
+        "funcionamento",
+        "dirigir"
+    ],
+    "act of terrorism": [],
+    "walked": [
+        "caminhou",
+        "andou",
+        "andei",
+        "andaram",
+        "andava",
+        "andamos",
+        "andado",
+        "entrou"
+    ],
+    "stabbed": [
+        "esfaqueado",
+        "apunhalado",
+        "espetou",
+        "furei",
+        "facada",
+        "enfiou"
+    ],
+    "Carjacking": [
+        "carjacking",
+        "seqüestro"
+    ],
+    "nabbed": [
+        "prendeu"
+    ],
+    "convict": [
+        "condenar",
+        "condenado",
+        "presidiário",
+        "detento",
+        "prisioneiro",
+        "recluso",
+        "convicto"
+    ],
+    "collapsed": [
+        "desmoronou",
+        "recolhido",
+        "desabou",
+        "ruiu",
+        "desmaiou",
+        "colapso",
+        "caiu",
+        "caído"
+    ],
+    "resistance": [
+        "resistência"
+    ],
+    "Bombings": [
+        "bombardeios",
+        "atentados",
+        "explosões",
+        "suicidas"
+    ],
+    "blow up": [],
+    "reselling": [
+        "revenda"
+    ],
+    "argue": [
+        "argumentar",
+        "discutir",
+        "defendem",
+        "alegar",
+        "afirmam",
+        "brigar"
+    ],
+    "reports": [
+        "relatórios",
+        "relata",
+        "informa",
+        "reportagens",
+        "reporta"
+    ],
+    "detonations": [
+        "detonações",
+        "explosões"
+    ],
+    "shooting": [
+        "atirando",
+        "tiroteio",
+        "tiro",
+        "fotografar",
+        "rodagem",
+        "disparar",
+        "disparo",
+        "filmar",
+        "filmagem",
+        "gravar"
+    ],
+    "capture": [
+        "capturar",
+        "captura",
+        "captar",
+        "captação"
+    ],
+    "carnage": [
+        "carnificina",
+        "massacre",
+        "matança"
+    ],
+    "consorted": [
+        "consorted",
+        "associou"
+    ],
+    "exchanges": [
+        "intercâmbios",
+        "trocas",
+        "bolsas"
+    ],
+    "detonating": [
+        "detonar"
+    ],
+    "confrontation": [
+        "confronto",
+        "enfrentamento"
+    ],
+    "teaching": [
+        "ensino",
+        "ensinar",
+        "docente",
+        "didáticos",
+        "pedagógicos",
+        "lecionar",
+        "lecionando",
+        "dando aula",
+        "professor",
+        "aulas"
+    ],
+    "releases": [
+        "libera",
+        "lançamentos",
+        "liberações",
+        "comunicados",
+        "versões",
+        "lança",
+        "solta"
+    ],
+    "raid": [
+        "RAID",
+        "incursão",
+        "ataque",
+        "rusga",
+        "REIDE",
+        "invasão",
+        "invadir",
+        "batida",
+        "assalto",
+        "assaltar",
+        "atacar"
+    ],
+    "surgery": [
+        "cirurgia",
+        "operação"
+    ],
+    "airstrikes": [],
+    "instructed": [
+        "instruído",
+        "encarregou",
+        "incumbiu",
+        "orientados"
+    ],
+    "incident": [
+        "incidente"
+    ],
+    "Investigation": [
+        "investigação",
+        "inquérito"
+    ],
+    "gone off": [],
+    "orders": [
+        "ordens",
+        "encomendas",
+        "pedidos",
+        "ordem"
+    ],
+    "hiked": [
+        "caminhamos"
+    ],
+    "arresting": [
+        "prender",
+        "detenção"
+    ],
+    "repatriated": [
+        "repatriados"
+    ],
+    "obliging": [
+        "obrigando",
+        "prestável"
+    ],
+    "shoots": [
+        "atira",
+        "dispara",
+        "brotos",
+        "rebentos",
+        "tiros",
+        "turiões",
+        "filma",
+        "chuta",
+        "sessões",
+        "mata"
+    ],
+    "lost limbs": [],
+    "wounding": [
+        "ferindo",
+        "ferimento"
+    ],
+    "contributed": [
+        "contribuiu",
+        "colaboraram"
+    ],
+    "violent events": [],
+    "defeated": [
+        "derrotado",
+        "vencido",
+        "venceu"
+    ],
+    "inform": [
+        "informar",
+        "avisar",
+        "comunicar"
+    ],
+    "Connecting": [
+        "conectar",
+        "ligar",
+        "conexão",
+        "comunicantes",
+        "Connecticut"
+    ],
+    "destroy": [
+        "destruir"
+    ],
+    "detained": [
+        "detido",
+        "deteve",
+        "retido",
+        "imobilização",
+        "imobilizado"
+    ],
+    "bombings": [
+        "bombardeios",
+        "atentados",
+        "explosões",
+        "suicidas"
+    ],
+    "walk": [
+        "caminhada",
+        "andar",
+        "caminhar",
+        "pé",
+        "passeio",
+        "ande",
+        "passear",
+        "andam",
+        "anda",
+        "volta"
+    ],
+    "Deliver": [
+        "entregar",
+        "livrai",
+        "fornecer",
+        "oferecer",
+        "proporcionar",
+        "cumprir",
+        "libertar"
+    ],
+    "urged": [
+        "instou",
+        "exortou",
+        "incitou",
+        "urgiu",
+        "pediu",
+        "apelou",
+        "insistiu",
+        "encorajados",
+        "incentivados"
+    ],
+    "checking": [
+        "verificação",
+        "checando",
+        "conferindo",
+        "check",
+        "controlo",
+        "checagem",
+        "olhando",
+        "investigando"
+    ],
+    "drive": [
+        "dirigir",
+        "unidade",
+        "conduzir",
+        "movimentação",
+        "rígido",
+        "carro",
+        "disco",
+        "guiar",
+        "levar",
+        "viagem"
+    ],
+    "march": [
+        "março",
+        "marcha",
+        "marchar"
+    ],
+    "terrorism": [
+        "terrorismo",
+        "antiterrorista"
+    ],
+    "kidnappings": [
+        "sequestros",
+        "raptos"
+    ],
+    "Convicts": [
+        "condenados",
+        "presidiários",
+        "prisioneiros",
+        "detentos",
+        "reclusos",
+        "convictos",
+        "convence",
+        "condena",
+        "fugitivos"
+    ],
+    "set": [
+        "definir",
+        "conjunto",
+        "ajustar",
+        "situado",
+        "jogo",
+        "configurar",
+        "fixado",
+        "estabelecer",
+        "criar",
+        "pronto",
+        "colocar"
+    ],
+    "purchase": [
+        "compra",
+        "comprar",
+        "adquirir",
+        "aquisição"
+    ],
+    "prosecuting": [
+        "acusando",
+        "processar",
+        "repressão",
+        "Ministério Público"
+    ],
+    "helped": [
+        "ajudou",
+        "ajudado",
+        "ajudei",
+        "contribuiu"
+    ],
+    "criminal": [
+        "criminal",
+        "criminoso",
+        "penal"
+    ],
+    "prosecuted": [
+        "processado",
+        "julgado",
+        "perseguidos",
+        "acusado"
+    ],
+    "making": [
+        "fazendo",
+        "tornando",
+        "fazer",
+        "cometendo",
+        "tomada",
+        "deixando",
+        "faz",
+        "ganhar",
+        "decisões",
+        "fazem"
+    ],
+    "trigger": [
+        "gatilho",
+        "disparador",
+        "acionar",
+        "desencadear",
+        "disparar",
+        "provocar",
+        "accionador",
+        "desencadeamento",
+        "detonador"
+    ],
+    "showed": [
+        "mostrou",
+        "demonstrou",
+        "apresentaram",
+        "revelou",
+        "apareceu",
+        "ensinou"
+    ],
+    "discovery": [
+        "descoberta",
+        "detecção"
+    ],
+    "wound": [
+        "ferida",
+        "ferir",
+        "machucado",
+        "lesão",
+        "enrolado"
+    ],
+    "dialogue": [
+        "diálogo"
+    ],
+    "contact": [
+        "contato",
+        "contactar",
+        "fale"
+    ],
+    "addresses": [
+        "endereços",
+        "aborda",
+        "moradas",
+        "endereça",
+        "address",
+        "dirige",
+        "resolve"
+    ],
+    "exploded": [
+        "explodiu"
+    ],
+    "toll of life": [],
+    "refused": [
+        "recusou",
+        "neguei",
+        "indeferido",
+        "negou",
+        "se recusam",
+        "rejeitou"
+    ],
+    "protesting": [
+        "protestando"
+    ],
+    "sinister": [
+        "sinistro"
+    ],
+    "death toll": [
+        "mortos"
+    ],
+    "Murder": [
+        "assassinato",
+        "homicídio",
+        "assassinar",
+        "crime",
+        "matar",
+        "morte"
+    ],
+    "criticize": [
+        "criticar"
+    ],
+    "demanding": [
+        "exigente",
+        "exijindo",
+        "demandando",
+        "pedindo"
+    ],
+    "fire": [
+        "fogo",
+        "incêndio",
+        "demitir",
+        "despedir",
+        "fogueira",
+        "disparar",
+        "chamas",
+        "dispare",
+        "lareira",
+        "atirar",
+        "atire"
+    ],
+    "paid": [
+        "pago",
+        "pagou",
+        "pagos",
+        "pagas",
+        "paguei",
+        "paga",
+        "pagado",
+        "pagava",
+        "prestou",
+        "pagar",
+        "pagamento"
+    ],
+    "protested": [
+        "protestou"
+    ],
+    "approach": [
+        "abordagem",
+        "aproximação",
+        "aproximar",
+        "abordar",
+        "enfoque"
+    ],
+    "stabbings": [
+        "esfaqueamentos",
+        "punhaladas",
+        "facadas"
+    ],
+    "lied": [
+        "mentiu",
+        "enganado"
+    ],
+    "reserved": [
+        "reservados"
+    ],
+    "conviction": [
+        "convicção",
+        "condenação",
+        "convencimento"
+    ],
+    "evacuating": [
+        "evacuar"
+    ],
+    "threw": [
+        "jogou",
+        "atirou",
+        "joguei",
+        "jogaram",
+        "lançou",
+        "deitou",
+        "jogamos"
+    ],
+    "hearings": [
+        "audiências",
+        "auscultações",
+        "averiguações",
+        "inquéritos"
+    ],
+    "sound": [
+        "som",
+        "soar",
+        "sonoros",
+        "sadio",
+        "parecer",
+        "soa",
+        "barulho",
+        "sólida",
+        "sons"
+    ],
+    "tried": [
+        "tentei",
+        "tentou",
+        "tentado",
+        "experimentado",
+        "julgado",
+        "procurei"
+    ],
+    "condemn": [
+        "condenar",
+        "denunciar"
+    ],
+    "persuaded": [
+        "persuadido",
+        "convenceu"
+    ],
+    "convicted": [
+        "condenado",
+        "acusado",
+        "convicto",
+        "sentenciado"
+    ],
+    "martyred": [
+        "martirizados",
+        "torturado"
+    ],
+    "mixing": [
+        "mistura",
+        "misturar",
+        "mixagem"
+    ],
+    "destroying": [
+        "destruir"
+    ],
+    "Wounded": [
+        "ferido",
+        "feriu",
+        "aleijada",
+        "machucado"
+    ],
+    "Arrest": [
+        "prender",
+        "detenção",
+        "prisão",
+        "apreensão",
+        "deter",
+        "captura"
+    ],
+    "diseases": [
+        "doenças",
+        "enfermidades"
+    ],
+    "produce": [
+        "produzir",
+        "produto",
+        "gerar"
+    ],
+    "fly": [
+        "voar",
+        "mosca",
+        "voam",
+        "voe",
+        "pilotar",
+        "voa",
+        "voo",
+        "voando"
+    ],
+    "talks": [
+        "fala",
+        "conversações",
+        "palestras",
+        "negociações",
+        "discursos"
+    ],
+    "discharged": [
+        "descarregada",
+        "dispensado",
+        "apurado",
+        "exonerado",
+        "liberado",
+        "lançadas",
+        "despedido"
+    ],
+    "injuring": [
+        "ferindo",
+        "fere"
+    ],
+    "allege": [
+        "alegam"
+    ],
+    "protected": [
+        "protegido"
+    ],
+    "conflict": [
+        "conflito"
+    ],
+    "the assault": [],
+    "chikungunya": [],
+    "measure": [
+        "medida",
+        "medir",
+        "meça",
+        "medem",
+        "mensurar",
+        "mede",
+        "métrica",
+        "avaliar"
+    ],
+    "deploy": [
+        "implantar",
+        "desdobrar",
+        "distribuir"
+    ],
+    "transport": [
+        "transporte",
+        "transportar",
+        "dos transportes"
+    ],
+    "bought": [
+        "comprei",
+        "adquirido",
+        "acreditou"
+    ],
+    "stole": [
+        "roubou",
+        "roubaram",
+        "roubei",
+        "estola"
+    ],
+    "determined": [
+        "determinado",
+        "decidido"
+    ],
+    "addressed": [
+        "endereçado",
+        "abordados",
+        "dirigida",
+        "tratada",
+        "resolvidos",
+        "destinatários",
+        "solucionado",
+        "enfrentados"
+    ],
+    "carry": [
+        "carregar",
+        "transportar",
+        "levar",
+        "realizar",
+        "portar",
+        "continuar",
+        "leve"
+    ],
+    "held": [
+        "realizada",
+        "segurou",
+        "mantidos",
+        "prendido",
+        "detidos",
+        "manteve",
+        "considerou"
+    ],
+    "evacuation": [
+        "evacuação"
+    ],
+    "indictments": [
+        "indiciamentos",
+        "acusações"
+    ],
+    "went off": [],
+    "discussions": [
+        "discussões",
+        "debates",
+        "conversas"
+    ],
+    "send": [
+        "enviar",
+        "mandar",
+        "mande",
+        "emitir",
+        "mandou"
+    ],
+    "Trial": [
+        "julgamento",
+        "experimentação",
+        "ensaio",
+        "tentativa",
+        "teste",
+        "avaliação",
+        "prova",
+        "tribunal"
+    ],
+    "announced": [
+        "anunciou",
+        "divulgou",
+        "comunicou"
+    ],
+    "Kill": [
+        "matar",
+        "matá",
+        "mate",
+        "matam",
+        "mato",
+        "matem",
+        "matou",
+        "matasse",
+        "matei"
+    ],
+    "warnings": [
+        "avisos",
+        "advertências",
+        "alertas"
+    ],
+    "recognized": [
+        "reconhecido"
+    ],
+    "transform": [
+        "transformar",
+        "transformação"
+    ],
+    "outbreak": [
+        "surto",
+        "eclosão",
+        "epidemia",
+        "deflagração",
+        "manifestação",
+        "foco",
+        "erupção",
+        "aparecimento"
+    ],
+    "moving": [
+        "movendo",
+        "se deslocam",
+        "mover",
+        "movimento",
+        "móveis",
+        "mudança",
+        "andando",
+        "mudar",
+        "indo",
+        "andar"
+    ],
+    "charge": [
+        "cobrar",
+        "carga",
+        "acusação",
+        "comando",
+        "encargo",
+        "carregar",
+        "responsável",
+        "cargo",
+        "acusar",
+        "custo",
+        "taxa"
+    ],
+    "targeted": [
+        "alvejado",
+        "direcionados",
+        "alvo",
+        "segmentados",
+        "visados",
+        "orientada",
+        "dirigida",
+        "destinado",
+        "específicas",
+        "voltado"
+    ],
+    "rushed": [
+        "apressado",
+        "levado às pressas",
+        "correu",
+        "corri",
+        "pressa",
+        "precipitado",
+        "agitações"
+    ],
+    "Explosion": [
+        "explosão"
+    ],
+    "losing": [
+        "perder",
+        "perda",
+        "perdido",
+        "ficando"
+    ],
+    "Kidnapping": [
+        "sequestro",
+        "rapto",
+        "sequestrar",
+        "raptar",
+        "raptá"
+    ],
+    "imprisoned": [
+        "aprisionado",
+        "encarcerado",
+        "preso",
+        "presa",
+        "prendeu",
+        "detidos",
+        "prisioneiro"
+    ],
+    "threat": [
+        "ameaça"
+    ],
+    "found": [
+        "encontrado",
+        "achei",
+        "achou",
+        "achado",
+        "descobriu",
+        "acharam",
+        "achamos"
+    ],
+    "crash": [
+        "acidente",
+        "bater",
+        "queda",
+        "colisão",
+        "falhar",
+        "falha",
+        "batida",
+        "travar",
+        "cair",
+        "dormir"
+    ],
+    "reached out": [],
+    "ate": [
+        "comeu",
+        "comi",
+        "comeram",
+        "comeste",
+        "comemos",
+        "engoliu"
+    ],
+    "suspect": [
+        "suspeito",
+        "suspeitar",
+        "desconfiar",
+        "suspeitas"
+    ],
+    "broadcast": [
+        "transmissão",
+        "difusão",
+        "transmitir",
+        "emissão",
+        "difundir",
+        "divulgadas",
+        "emitir"
+    ],
+    "heard": [
+        "ouvi",
+        "escutei",
+        "soube",
+        "sabendo",
+        "notícias",
+        "disseram"
+    ],
+    "10 stabs in the back": [],
+    "investigations": [
+        "investigações",
+        "inquéritos"
+    ],
+    "detonate": [
+        "detonar",
+        "detonará",
+        "rebentar"
+    ],
+    "admitted": [
+        "admitiu",
+        "internado",
+        "confessou",
+        "reconheceu"
+    ],
+    "protestations": [
+        "protestos"
+    ],
+    "hooked up": [
+        "ligado",
+        "juntei",
+        "conectado"
+    ],
+    "counter": [
+        "Counter",
+        "contador",
+        "balcão",
+        "contrária",
+        "contrariar",
+        "combater",
+        "contra",
+        "bancada"
+    ],
+    "have": [
+        "ter",
+        "tem",
+        "tenho",
+        "temos",
+        "tiver",
+        "tenha",
+        "tê",
+        "tens",
+        "já",
+        "tinha",
+        "precisa"
+    ],
+    "disrupted": [
+        "interrompido",
+        "perturbado",
+        "rompidas",
+        "atrapalha",
+        "rompeu",
+        "prejudicada"
+    ],
+    "appeared": [
+        "apareceu",
+        "parecia",
+        "surgiu"
+    ],
+    "moved": [
+        "movido",
+        "moveu",
+        "comovido",
+        "mudei",
+        "mudamos",
+        "mudou",
+        "moveram",
+        "transferido",
+        "deslocado",
+        "mudado"
+    ],
+    "delivering": [
+        "entregar",
+        "fornecimento",
+        "oferecendo",
+        "proporcionando",
+        "cumprindo",
+        "prestação"
+    ],
+    "protest": [
+        "protesto",
+        "protestar",
+        "manifestação"
+    ],
+    "suppressed": [
+        "suprimida",
+        "reprimidas",
+        "debilitados"
+    ],
+    "reporting": [
+        "relatando",
+        "relatórios",
+        "reportagem",
+        "informando",
+        "comunicação",
+        "notificação",
+        "denunciar",
+        "comunicar"
+    ],
+    "hits": [
+        "hits",
+        "atinge",
+        "bate",
+        "sucessos",
+        "batidas",
+        "acerta",
+        "acessos",
+        "correspondências",
+        "visitas"
+    ],
+    "returning": [
+        "retornando",
+        "voltar",
+        "devolver",
+        "regressar",
+        "retribuir"
+    ],
+    "investigated": [
+        "investigado",
+        "estudadas",
+        "pesquisada"
+    ],
+    "firefight": [
+        "tiroteio"
+    ],
+    "fenced off": [],
+    "taught": [
+        "ensinou",
+        "ministrado",
+        "lecionou",
+        "aprendi"
+    ],
+    "tearing": [
+        "rasgando",
+        "lacrimejamento",
+        "arrancando",
+        "rasgo",
+        "demoli",
+        "acabando"
+    ],
+    "Threat": [
+        "ameaça"
+    ],
+    "Terror Attack": [],
+    "treatment": [
+        "tratamento"
+    ],
+    "insert": [
+        "inserir",
+        "insira",
+        "inserção",
+        "introduza",
+        "pastilha",
+        "coloque"
+    ],
+    "sells": [
+        "vende",
+        "comercializa"
+    ],
+    "caused": [
+        "causado",
+        "causou",
+        "provocou",
+        "causei"
+    ],
+    "bacteria": [
+        "bactérias"
+    ],
+    "assembled": [
+        "montado",
+        "reunidos",
+        "montou",
+        "montei"
+    ],
+    "executed": [
+        "executado"
+    ]
+}

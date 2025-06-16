@@ -1,0 +1,38 @@
+[
+    {
+        "sentence": "Earlier documents in the case have included embarrassing details about perks Welch received as part of his retirement package from GE at a time when corporate scandals were sparking outrage.",
+        "golden-event-mentions": [
+            {
+                "id": "APW_ENG_20030325.0786-EV10-1",
+                "trigger": {
+                    "text": "retirement",
+                    "start": 17,
+                    "end": 18,
+                    "text_pt": "aposentadoria"
+                },
+                "arguments": [
+                    {
+                        "entity-id": "APW_ENG_20030325.0786-E24-38",
+                        "role": "Person",
+                        "entity-type": "PER:Individual",
+                        "text": "Welch",
+                        "start": 11,
+                        "end": 12,
+                        "text_pt": "Bem"
+                    },
+                    {
+                        "entity-id": "APW_ENG_20030325.0786-E26-40",
+                        "role": "Entity",
+                        "entity-type": "ORG:Commercial",
+                        "text": "GE",
+                        "start": 20,
+                        "end": 21,
+                        "text_pt": "GE"
+                    }
+                ],
+                "event_type": "Personnel:End-Position"
+            }
+        ],
+        "sentence_pt": "Documentos anteriores do caso incluíam detalhes embaraçosos sobre benefícios que Welch recebeu da GE como parte de seu pacote de aposentadoria, num momento em que escândalos corporativos provocavam indignação."
+    }
+]
