@@ -60,9 +60,9 @@ from LinguAligner import AlignmentPipeline
 
 # Define pipeline and model configuration
 config = {
-    "pipeline": ["lemma", "M_trans", "w_aligner", "gestalt", "levenshtein"],
+    "pipeline": ["lemma", "M_trans", "word_aligner", "gestalt", "levenshtein"],
     "spacy_model": "pt_core_news_lg",
-    "w_aligner_model": "bert-base-multilingual-uncased"
+    "WAligner_model": "bert-base-multilingual-uncased"
 }
 
 aligner = AlignmentPipeline(config)
@@ -91,9 +91,9 @@ You can customize the alignment behavior in the `config` variable:
 
 ```python
 config = {
-    "pipeline": ["lemma", "w_aligner", "levenshtein"], # change pipeline elements and order
+    "pipeline": ["lemma", "word_aligner", "levenshtein"], # change pipeline elements and order
     "spacy_model": "fr_core_news_md", # change spacy model
-    "w_aligner_model": "bert-base-multilingual-uncased" # change multilingual model
+    "WAligner_model": "bert-base-multilingual-uncased" # change multilingual model
 }
 ```
 
