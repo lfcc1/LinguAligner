@@ -36,7 +36,7 @@ You can use the Translation APIs or can translate your corpus with an external t
 from LinguAligner import translation
 
 # Google Translate
-translator = translation.GoogleTranslator(source_lang="en", target_lang="pt")
+translator = translation.GoogleTranslator(source_lang="en", target_lang="pt", key="Google_KEY")
 translated_text = translator.translate("The soldiers were ordered to fire their weapons")
 
 # DeepL
