@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/lingualigner.png" alt="LinguAligner Logo" width="200"/>
+</p>
+
 # LinguAligner
 
 **LinguAligner** is a Python package for automatically translating annotated corpora while preserving their annotations. It supports multiple translation APIs and alignment strategies, making it a valuable tool for NLP researchers building multilingual datasets, particularly for low-resource languages.
