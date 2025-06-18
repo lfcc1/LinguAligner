@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[img/lingualigner.png](https://github.com/lfcc1/LinguAligner/blob/main/img/lingualigner.png)" alt="LinguAligner Logo" width="300"/>
+  <img src="https://github.com/lfcc1/LinguAligner/blob/main/img/lingualigner.png" alt="LinguAligner Logo" width="300"/>
 </p>
 
 
