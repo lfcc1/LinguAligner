@@ -177,7 +177,7 @@ LinguAligner was used to create translated versions of the following annotated c
 - **WikiEvents**: (EN → PT) Document-level event extraction dataset translated to Portuguese (available in this repository)
 
 
-## 🧩 References
+## 🧩 Citation
 
 ### Coming soon...
 
