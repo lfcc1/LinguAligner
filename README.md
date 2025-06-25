@@ -169,12 +169,12 @@ aligner.align_annotation(
 ```
 ## 📚 Use Cases
 
-LinguAligner was used to create translated versions of the following annotated corpora:
+LinguAligner was used to create translated versions of the following annotated corpora ([available here](https://github.com/lfcc1/LinguAligner/tree/main/translated_datasets)):
 
 - **ACE-2005** (EN → PT): Event extraction benchmark, now available in Portuguese via the [LDC](https://catalog.ldc.upenn.edu/LDC2024T05)  
 - **T2S LUSA** (PT → EN): Portuguese news event corpus adapted to English [10.25747/ESFS-1P16](https://doi.org/10.25747/ESFS-1P16)  
-- **MAVEN**: (EN → PT) High-coverage event trigger corpus from Wikipedia translated to Portuguese (available in this repository)
-- **WikiEvents**: (EN → PT) Document-level event extraction dataset translated to Portuguese (available in this repository)
+- **MAVEN**: (EN → PT) High-coverage event trigger corpus from Wikipedia translated to Portuguese
+- **WikiEvents**: (EN → PT) Document-level event extraction dataset translated to Portuguese
 
 
 ## 🧩 Citation
